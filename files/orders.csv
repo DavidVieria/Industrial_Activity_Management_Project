@@ -1,0 +1,4 @@
+order_id;item_id;priority,qtd
+1;AS12945S20;NORMAL;2
+1;AS12947S22;LOW;1
+2;AS12946S22;HIGH;3

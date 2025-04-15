@@ -1,0 +1,5 @@
+id_item;priority;name_oper1;name_oper2
+a;HIGH;2;3
+c;LOW;1;2
+b;NORMAL;1;2
+d;LOW;1;3

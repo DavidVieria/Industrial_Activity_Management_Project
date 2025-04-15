@@ -1,0 +1,6 @@
+ActivKey,descr,duration,duration-unit,tot-cost,predecessors
+A,Task A,20,days,5000,
+B,Task B,50,days,8000,
+C,Task C,25,days,6000,A
+D,Task D,15,days,3000,C
+E,Task E,60,days,9000,A

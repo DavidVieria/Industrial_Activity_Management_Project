@@ -1,0 +1,25 @@
+op_id;op_name
+100;Disc cutting
+103;Initial pot base pressing
+112;Final pot base pressing
+114;Pot base finishing
+115;Pot handles riveting
+120;Disc cutting
+121;Lid pressing
+122;Lid finishing
+123;Lid handle screw
+124;Lid polishing
+130;Pot test and packaging
+150;Disc cutting
+151;Initial pot base pressing
+152;Final pot base pressing
+153;Pot base finishing
+154;Pot handles riveting
+160;Disc cutting
+161;Lid pressing
+162;Lid finishing
+163;Lid handle screw
+164;Lid polishing
+170;Pot test and packaging
+203;Initial pot base pressing
+3;Initial pot base pressing

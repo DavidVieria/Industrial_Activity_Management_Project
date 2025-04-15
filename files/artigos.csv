@@ -1,0 +1,5 @@
+﻿id_item;priority;name_oper1;name_oper2;name_oper3
+1;NORMAL;cutting;drilling;painting
+2;HIGH;cutting;polishing;painting
+3;LOW;drilling;polishing;inspection
+4;NORMAL;painting;polishing;inspection
