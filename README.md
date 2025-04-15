@@ -1,0 +1,1 @@
+# Industrial_Activity_Management_Project
