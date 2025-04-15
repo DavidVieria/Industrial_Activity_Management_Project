@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="David@vs-gate-s1.dei.isep.ipp.pt">
+  <database-model serializer="dbm" dbms="ORACLE" family-id="ORACLE" format-version="4.53">
+    <root id="1">
+      <ServerVersion>18.0.0.0.0</ServerVersion>
+      <TablespacesHash>23420661385</TablespacesHash>
+      <TenantCategory>CDB</TenantCategory>
+    </root>
+    <schema id="2" parent="1" name="ANONYMOUS">
+      <ObjectId>62</ObjectId>
+    </schema>
+    <schema id="3" parent="1" name="APPQOSSYS">
+      <ObjectId>54</ObjectId>
+    </schema>
+    <schema id="4" parent="1" name="AUDSYS">
+      <ObjectId>8</ObjectId>
+    </schema>
+    <schema id="5" parent="1" name="AUTISTA2">
+      <ObjectId>105</ObjectId>
+    </schema>
+    <schema id="6" parent="1" name="C##LEANDRO">
+      <ObjectId>103</ObjectId>
+    </schema>
+    <schema id="7" parent="1" name="CTXSYS">
+      <ObjectId>82</ObjectId>
+    </schema>
+    <schema id="8" parent="1" name="DAVID">
+      <AutoIntrospectionLevel>3</AutoIntrospectionLevel>
+      <CreatedTimestamp>2025-01-24.22:42:18</CreatedTimestamp>
+      <Current>1</Current>
+      <LastIntrospectionL1Timestamp>2025-01-26.23:53:54</LastIntrospectionL1Timestamp>
+      <LastIntrospectionL2Timestamp>2025-01-26.23:53:54</LastIntrospectionL2Timestamp>
+      <LastIntrospectionL3Timestamp>2025-01-26.23:53:54</LastIntrospectionL3Timestamp>
+      <LastIntrospectionLevel>3</LastIntrospectionLevel>
+      <LastIntrospectionLocalTimestamp>2025-01-26.23:54:17</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionVersion>200820</LastIntrospectionVersion>
+      <ModifiedTimestamp>2025-01-24.22:47:24</ModifiedTimestamp>
+      <ObjectId>107</ObjectId>
+    </schema>
+    <schema id="9" parent="1" name="DBSFWUSER">
+      <ObjectId>35</ObjectId>
+    </schema>
+    <schema id="10" parent="1" name="DBSNMP">
+      <ObjectId>53</ObjectId>
+    </schema>
+    <schema id="11" parent="1" name="DIP">
+      <ObjectId>23</ObjectId>
+    </schema>
+    <schema id="12" parent="1" name="DVF">
+      <ObjectId>98</ObjectId>
+    </schema>
+    <schema id="13" parent="1" name="DVSYS">
+      <ObjectId>1279990</ObjectId>
+    </schema>
+    <schema id="14" parent="1" name="GGSYS">
+      <ObjectId>59</ObjectId>
+    </schema>
+    <schema id="15" parent="1" name="GSMADMIN_INTERNAL">
+      <ObjectId>21</ObjectId>
+    </schema>
+    <schema id="16" parent="1" name="GSMCATUSER">
+      <ObjectId>58</ObjectId>
+    </schema>
+    <schema id="17" parent="1" name="GSMUSER">
+      <ObjectId>22</ObjectId>
+    </schema>
+    <schema id="18" parent="1" name="LBACSYS">
+      <ObjectId>96</ObjectId>
+    </schema>
+    <schema id="19" parent="1" name="LEANDRO">
+      <ObjectId>104</ObjectId>
+    </schema>
+    <schema id="20" parent="1" name="MDDATA">
+      <ObjectId>94</ObjectId>
+    </schema>
+    <schema id="21" parent="1" name="MDSYS">
+      <ObjectId>88</ObjectId>
+    </schema>
+    <schema id="22" parent="1" name="OJVMSYS">
+      <ObjectId>80</ObjectId>
+    </schema>
+    <schema id="23" parent="1" name="OLAPSYS">
+      <ObjectId>91</ObjectId>
+    </schema>
+    <schema id="24" parent="1" name="ORACLE_OCM">
+      <ObjectId>39</ObjectId>
+    </schema>
+    <schema id="25" parent="1" name="ORDDATA">
+      <ObjectId>85</ObjectId>
+    </schema>
+    <schema id="26" parent="1" name="ORDPLUGINS">
+      <ObjectId>86</ObjectId>
+    </schema>
+    <schema id="27" parent="1" name="ORDSYS">
+      <ObjectId>84</ObjectId>
+    </schema>
+    <schema id="28" parent="1" name="OTARIO">
+      <ObjectId>106</ObjectId>
+    </schema>
+    <schema id="29" parent="1" name="OUTLN">
+      <ObjectId>13</ObjectId>
+    </schema>
+    <schema id="30" parent="1" name="PUBLIC">
+      <ObjectId>1</ObjectId>
+    </schema>
+    <schema id="31" parent="1" name="REMOTE_SCHEDULER_AGENT">
+      <ObjectId>34</ObjectId>
+    </schema>
+    <schema id="32" parent="1" name="RITA">
+      <ObjectId>108</ObjectId>
+    </schema>
+    <schema id="33" parent="1" name="SI_INFORMTN_SCHEMA">
+      <ObjectId>87</ObjectId>
+    </schema>
+    <schema id="34" parent="1" name="SYS">
+      <ObjectId>0</ObjectId>
+    </schema>
+    <schema id="35" parent="1" name="SYS$UMF">
+      <ObjectId>46</ObjectId>
+    </schema>
+    <schema id="36" parent="1" name="SYSBACKUP">
+      <ObjectId>2147483617</ObjectId>
+    </schema>
+    <schema id="37" parent="1" name="SYSDG">
+      <ObjectId>2147483618</ObjectId>
+    </schema>
+    <schema id="38" parent="1" name="SYSKM">
+      <ObjectId>2147483619</ObjectId>
+    </schema>
+    <schema id="39" parent="1" name="SYSRAC">
+      <ObjectId>2147483620</ObjectId>
+    </schema>
+    <schema id="40" parent="1" name="SYSTEM">
+      <ObjectId>9</ObjectId>
+    </schema>
+    <schema id="41" parent="1" name="VIKSTAR">
+      <ObjectId>110</ObjectId>
+    </schema>
+    <schema id="42" parent="1" name="WMSYS">
+      <ObjectId>71</ObjectId>
+    </schema>
+    <schema id="43" parent="1" name="XDB">
+      <ObjectId>61</ObjectId>
+    </schema>
+    <schema id="44" parent="1" name="XS$NULL">
+      <ObjectId>2147483638</ObjectId>
+    </schema>
+    <schema id="45" parent="1" name="ZICO">
+      <ObjectId>111</ObjectId>
+    </schema>
+    <tablespace id="46" parent="1" name="SYSTEM">
+      <BlockSize>8192</BlockSize>
+      <ContentCategory>P</ContentCategory>
+      <LocalExtentManagement>1</LocalExtentManagement>
+      <Logging>2</Logging>
+      <Status>E</Status>
+    </tablespace>
+    <tablespace id="47" parent="1" name="SYSAUX">
+      <AutoSegmentManagement>1</AutoSegmentManagement>
+      <BlockSize>8192</BlockSize>
+      <ContentCategory>P</ContentCategory>
+      <LocalExtentManagement>1</LocalExtentManagement>
+      <Logging>2</Logging>
+      <Status>E</Status>
+    </tablespace>
+    <tablespace id="48" parent="1" name="UNDOTBS1">
+      <BlockSize>8192</BlockSize>
+      <ContentCategory>U</ContentCategory>
+      <LocalExtentManagement>1</LocalExtentManagement>
+      <Logging>1</Logging>
+      <Status>E</Status>
+    </tablespace>
+    <tablespace id="49" parent="1" name="TEMP">
+      <BlockSize>8192</BlockSize>
+      <ContentCategory>T</ContentCategory>
+      <LocalExtentManagement>1</LocalExtentManagement>
+      <Logging>0</Logging>
+      <Status>E</Status>
+    </tablespace>
+    <tablespace id="50" parent="1" name="USERS">
+      <AutoSegmentManagement>1</AutoSegmentManagement>
+      <BlockSize>8192</BlockSize>
+      <ContentCategory>P</ContentCategory>
+      <LocalExtentManagement>1</LocalExtentManagement>
+      <Logging>1</Logging>
+      <Status>E</Status>
+    </tablespace>
+    <user id="51" parent="1" name="ANONYMOUS">
+      <ObjectId>62</ObjectId>
+    </user>
+    <user id="52" parent="1" name="APPQOSSYS">
+      <ObjectId>54</ObjectId>
+    </user>
+    <user id="53" parent="1" name="AUDSYS">
+      <ObjectId>8</ObjectId>
+    </user>
+    <user id="54" parent="1" name="AUTISTA2">
+      <ObjectId>105</ObjectId>
+    </user>
+    <user id="55" parent="1" name="C##LEANDRO">
+      <ObjectId>103</ObjectId>
+    </user>
+    <user id="56" parent="1" name="CTXSYS">
+      <ObjectId>82</ObjectId>
+    </user>
+    <user id="57" parent="1" name="DAVID">
+      <ObjectId>107</ObjectId>
+      <DefaultTablespaceName>USERS</DefaultTablespaceName>
+      <TemporaryTablespaceName>TEMP</TemporaryTablespaceName>
+    </user>
+    <user id="58" parent="1" name="DBSFWUSER">
+      <ObjectId>35</ObjectId>
+    </user>
+    <user id="59" parent="1" name="DBSNMP">
+      <ObjectId>53</ObjectId>
+    </user>
+    <user id="60" parent="1" name="DIP">
+      <ObjectId>23</ObjectId>
+    </user>
+    <user id="61" parent="1" name="DVF">
+      <ObjectId>98</ObjectId>
+    </user>
+    <user id="62" parent="1" name="DVSYS">
+      <ObjectId>1279990</ObjectId>
+    </user>
+    <user id="63" parent="1" name="GGSYS">
+      <ObjectId>59</ObjectId>
+    </user>
+    <user id="64" parent="1" name="GSMADMIN_INTERNAL">
+      <ObjectId>21</ObjectId>
+    </user>
+    <user id="65" parent="1" name="GSMCATUSER">
+      <ObjectId>58</ObjectId>
+    </user>
+    <user id="66" parent="1" name="GSMUSER">
+      <ObjectId>22</ObjectId>
+    </user>
+    <user id="67" parent="1" name="LBACSYS">
+      <ObjectId>96</ObjectId>
+    </user>
+    <user id="68" parent="1" name="LEANDRO">
+      <ObjectId>104</ObjectId>
+    </user>
+    <user id="69" parent="1" name="MDDATA">
+      <ObjectId>94</ObjectId>
+    </user>
+    <user id="70" parent="1" name="MDSYS">
+      <ObjectId>88</ObjectId>
+    </user>
+    <user id="71" parent="1" name="OJVMSYS">
+      <ObjectId>80</ObjectId>
+    </user>
+    <user id="72" parent="1" name="OLAPSYS">
+      <ObjectId>91</ObjectId>
+    </user>
+    <user id="73" parent="1" name="ORACLE_OCM">
+      <ObjectId>39</ObjectId>
+    </user>
+    <user id="74" parent="1" name="ORDDATA">
+      <ObjectId>85</ObjectId>
+    </user>
+    <user id="75" parent="1" name="ORDPLUGINS">
+      <ObjectId>86</ObjectId>
+    </user>
+    <user id="76" parent="1" name="ORDSYS">
+      <ObjectId>84</ObjectId>
+    </user>
+    <user id="77" parent="1" name="OTARIO">
+      <ObjectId>106</ObjectId>
+    </user>
+    <user id="78" parent="1" name="OUTLN">
+      <ObjectId>13</ObjectId>
+    </user>
+    <user id="79" parent="1" name="REMOTE_SCHEDULER_AGENT">
+      <ObjectId>34</ObjectId>
+    </user>
+    <user id="80" parent="1" name="RITA">
+      <ObjectId>108</ObjectId>
+    </user>
+    <user id="81" parent="1" name="SI_INFORMTN_SCHEMA">
+      <ObjectId>87</ObjectId>
+    </user>
+    <user id="82" parent="1" name="SYS">
+      <ObjectId>0</ObjectId>
+    </user>
+    <user id="83" parent="1" name="SYS$UMF">
+      <ObjectId>46</ObjectId>
+    </user>
+    <user id="84" parent="1" name="SYSBACKUP">
+      <ObjectId>2147483617</ObjectId>
+    </user>
+    <user id="85" parent="1" name="SYSDG">
+      <ObjectId>2147483618</ObjectId>
+    </user>
+    <user id="86" parent="1" name="SYSKM">
+      <ObjectId>2147483619</ObjectId>
+    </user>
+    <user id="87" parent="1" name="SYSRAC">
+      <ObjectId>2147483620</ObjectId>
+    </user>
+    <user id="88" parent="1" name="SYSTEM">
+      <ObjectId>9</ObjectId>
+    </user>
+    <user id="89" parent="1" name="VIKSTAR">
+      <ObjectId>110</ObjectId>
+    </user>
+    <user id="90" parent="1" name="WMSYS">
+      <ObjectId>71</ObjectId>
+    </user>
+    <user id="91" parent="1" name="XDB">
+      <ObjectId>61</ObjectId>
+    </user>
+    <user id="92" parent="1" name="XS$NULL">
+      <ObjectId>2147483638</ObjectId>
+    </user>
+    <user id="93" parent="1" name="ZICO">
+      <ObjectId>111</ObjectId>
+    </user>
+    <routine id="94" parent="8" name="SUBSTITIR_MEDICO">
+      <CreatedTimestamp>2025-01-24.22:45:11</CreatedTimestamp>
+      <DependsOnIds>-9223372036854775808,107041,107032,107028</DependsOnIds>
+      <DetailsLevel>3</DetailsLevel>
+      <ModifiedTimestamp>2025-01-24.22:47:24</ModifiedTimestamp>
+      <ObjectId>107042</ObjectId>
+      <RoutineKind>procedure</RoutineKind>
+      <SourceTextLength>1727</SourceTextLength>
+    </routine>
+    <routine id="95" parent="8" name="VERIFICAR_SE_MEDICO_EXISTE">
+      <CreatedTimestamp>2025-01-24.22:44:56</CreatedTimestamp>
+      <DependsOnIds>-9223372036854775808,107028</DependsOnIds>
+      <DetailsLevel>3</DetailsLevel>
+      <ModifiedTimestamp>2025-01-24.22:44:56</ModifiedTimestamp>
+      <ObjectId>107041</ObjectId>
+      <RoutineKind>function</RoutineKind>
+      <SourceTextLength>249</SourceTextLength>
+    </routine>
+    <table id="96" parent="8" name="CODIGOS_POSTAIS">
+      <CreatedTimestamp>2025-01-24.22:42:21</CreatedTimestamp>
+      <DetailsLevel>3</DetailsLevel>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <ObjectId>107039</ObjectId>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="97" parent="8" name="CONSULTAS">
+      <CreatedTimestamp>2025-01-24.22:42:20</CreatedTimestamp>
+      <DetailsLevel>3</DetailsLevel>
+      <ModifiedTimestamp>2025-01-24.22:42:23</ModifiedTimestamp>
+      <ObjectId>107032</ObjectId>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="98" parent="8" name="ESPECIALIDADES">
+      <CreatedTimestamp>2025-01-24.22:42:18</CreatedTimestamp>
+      <DetailsLevel>3</DetailsLevel>
+      <ModifiedTimestamp>2025-01-24.22:42:18</ModifiedTimestamp>
+      <ObjectId>107026</ObjectId>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="99" parent="8" name="MEDICAMENTOS">
+      <CreatedTimestamp>2025-01-24.22:42:20</CreatedTimestamp>
+      <DetailsLevel>3</DetailsLevel>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <ObjectId>107035</ObjectId>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="100" parent="8" name="MEDICAMENTOS_RECEITADOS">
+      <CreatedTimestamp>2025-01-24.22:42:21</CreatedTimestamp>
+      <DetailsLevel>3</DetailsLevel>
+      <ModifiedTimestamp>2025-01-24.22:42:22</ModifiedTimestamp>
+      <ObjectId>107037</ObjectId>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="101" parent="8" name="MEDICOS">
+      <CreatedTimestamp>2025-01-24.22:42:19</CreatedTimestamp>
+      <DetailsLevel>3</DetailsLevel>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <ObjectId>107028</ObjectId>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="102" parent="8" name="PACIENTES">
+      <CreatedTimestamp>2025-01-24.22:42:19</CreatedTimestamp>
+      <DetailsLevel>3</DetailsLevel>
+      <ModifiedTimestamp>2025-01-24.22:42:22</ModifiedTimestamp>
+      <ObjectId>107030</ObjectId>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <argument id="103" parent="94" name="P_ID_MEDICO_ANTIGO">
+      <Position>1</Position>
+      <StoredType>MEDICOS.ID_MEDICO() %TYPE|0cs</StoredType>
+    </argument>
+    <argument id="104" parent="94" name="P_ID_MEDICO_NOVO">
+      <Position>2</Position>
+      <StoredType>MEDICOS.ID_MEDICO() %TYPE|0cs</StoredType>
+    </argument>
+    <argument id="105" parent="94" name="P_DIA">
+      <Position>3</Position>
+      <StoredType>CONSULTAS.DATA_HORA() %TYPE|0cs</StoredType>
+    </argument>
+    <argument id="106" parent="95">
+      <ArgumentDirection>R</ArgumentDirection>
+      <StoredType>BOOLEAN|0s</StoredType>
+    </argument>
+    <argument id="107" parent="95" name="P_ID_MEDICO">
+      <Position>1</Position>
+      <StoredType>MEDICOS.ID_MEDICO() %TYPE|0cs</StoredType>
+    </argument>
+    <check id="108" parent="96" name="NN_CODIGOS_POSTAIS_LOCALIDADE">
+      <ColNames>LOCALIDADE</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <Predicate>&quot;LOCALIDADE&quot; IS NOT NULL</Predicate>
+    </check>
+    <check id="109" parent="96" name="CK_CODIGOS_POSTAIS_COD_POSTAL">
+      <ColNames>COD_POSTAL</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <Predicate>REGEXP_LIKE(cod_postal,&apos;\d{4}-\d{3}&apos;)</Predicate>
+    </check>
+    <column id="110" parent="96" name="COD_POSTAL">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>VARCHAR2(8 byte)|0s</StoredType>
+    </column>
+    <column id="111" parent="96" name="LOCALIDADE">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>VARCHAR2(20 byte)|0s</StoredType>
+    </column>
+    <index id="112" parent="96" name="PK_CODIGOS_POSTAIS_COD_POSTAL">
+      <ColNames>COD_POSTAL</ColNames>
+      <CreatedTimestamp>2025-01-24.22:42:21</CreatedTimestamp>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <ObjectId>107040</ObjectId>
+      <Unique>1</Unique>
+      <TablespaceName>USERS</TablespaceName>
+    </index>
+    <key id="113" parent="96" name="PK_CODIGOS_POSTAIS_COD_POSTAL">
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PK_CODIGOS_POSTAIS_COD_POSTAL</UnderlyingIndexName>
+    </key>
+    <check id="114" parent="97" name="NN_CONSULTAS_DATA_HORA">
+      <ColNames>DATA_HORA</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <Predicate>&quot;DATA_HORA&quot; IS NOT NULL</Predicate>
+    </check>
+    <check id="115" parent="97" name="NN_CONSULTAS_ID_MEDICO">
+      <ColNames>ID_MEDICO</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <Predicate>&quot;ID_MEDICO&quot; IS NOT NULL</Predicate>
+    </check>
+    <check id="116" parent="97" name="NN_CONSULTAS_ID_PACIENTE">
+      <ColNames>ID_PACIENTE</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <Predicate>&quot;ID_PACIENTE&quot; IS NOT NULL</Predicate>
+    </check>
+    <column id="117" parent="97" name="ID_CONSULTA">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>NUMBER(*)|0s</StoredType>
+    </column>
+    <column id="118" parent="97" name="DATA_HORA">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>TIMESTAMP(6)|0s</StoredType>
+    </column>
+    <column id="119" parent="97" name="ID_MEDICO">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>NUMBER(*)|0s</StoredType>
+    </column>
+    <column id="120" parent="97" name="ID_PACIENTE">
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>NUMBER(*)|0s</StoredType>
+    </column>
+    <foreign-key id="121" parent="97" name="FK_CONSULTAS_ID_MEDICO">
+      <ColNames>ID_MEDICO</ColNames>
+      <ModifiedTimestamp>2025-01-24.22:42:23</ModifiedTimestamp>
+      <OnDelete>restrict</OnDelete>
+      <RefKeyName>PK_MEDICOS_ID_MEDICO</RefKeyName>
+      <RefTableName>MEDICOS</RefTableName>
+    </foreign-key>
+    <foreign-key id="122" parent="97" name="FK_CONSULTAS_PACIENTE">
+      <ColNames>ID_PACIENTE</ColNames>
+      <ModifiedTimestamp>2025-01-24.22:42:23</ModifiedTimestamp>
+      <OnDelete>restrict</OnDelete>
+      <RefKeyName>PK_PACIENTES_ID_PACIENTE</RefKeyName>
+      <RefTableName>PACIENTES</RefTableName>
+    </foreign-key>
+    <index id="123" parent="97" name="PK_CONSULTAS_ID_CONSULTAS">
+      <ColNames>ID_CONSULTA</ColNames>
+      <CreatedTimestamp>2025-01-24.22:42:20</CreatedTimestamp>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <ObjectId>107033</ObjectId>
+      <Unique>1</Unique>
+      <TablespaceName>USERS</TablespaceName>
+    </index>
+    <index id="124" parent="97" name="UK_CONSULTAS_DATA_HORA_ID_MEDICO">
+      <ColNames>DATA_HORA
+ID_MEDICO</ColNames>
+      <CreatedTimestamp>2025-01-24.22:42:20</CreatedTimestamp>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <ObjectId>107034</ObjectId>
+      <Unique>1</Unique>
+      <TablespaceName>USERS</TablespaceName>
+    </index>
+    <key id="125" parent="97" name="PK_CONSULTAS_ID_CONSULTAS">
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PK_CONSULTAS_ID_CONSULTAS</UnderlyingIndexName>
+    </key>
+    <key id="126" parent="97" name="UK_CONSULTAS_DATA_HORA_ID_MEDICO">
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <UnderlyingIndexName>UK_CONSULTAS_DATA_HORA_ID_MEDICO</UnderlyingIndexName>
+    </key>
+    <check id="127" parent="98" name="NN_ESPECIALIDADES_DESIGNACAO">
+      <ColNames>DESIGNACAO</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:18</ModifiedTimestamp>
+      <Predicate>&quot;DESIGNACAO&quot; IS NOT NULL</Predicate>
+    </check>
+    <column id="128" parent="98" name="ID_ESPECIALIDADE">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>NUMBER(*)|0s</StoredType>
+    </column>
+    <column id="129" parent="98" name="DESIGNACAO">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>VARCHAR2(20 byte)|0s</StoredType>
+    </column>
+    <index id="130" parent="98" name="PK_ESPECIALIDADES_ID_ESPECIALIDADE">
+      <ColNames>ID_ESPECIALIDADE</ColNames>
+      <CreatedTimestamp>2025-01-24.22:42:18</CreatedTimestamp>
+      <ModifiedTimestamp>2025-01-24.22:42:18</ModifiedTimestamp>
+      <ObjectId>107027</ObjectId>
+      <Unique>1</Unique>
+      <TablespaceName>USERS</TablespaceName>
+    </index>
+    <key id="131" parent="98" name="PK_ESPECIALIDADES_ID_ESPECIALIDADE">
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:18</ModifiedTimestamp>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PK_ESPECIALIDADES_ID_ESPECIALIDADE</UnderlyingIndexName>
+    </key>
+    <check id="132" parent="99" name="NN_MEDICAMENTOS_LABORATORIO">
+      <ColNames>LABORATORIO</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <Predicate>&quot;LABORATORIO&quot; IS NOT NULL</Predicate>
+    </check>
+    <check id="133" parent="99" name="NN_MEDICAMENTOS_NOME">
+      <ColNames>NOME</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <Predicate>&quot;NOME&quot; IS NOT NULL</Predicate>
+    </check>
+    <column id="134" parent="99" name="ID_MEDICAMENTO">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>NUMBER(*)|0s</StoredType>
+    </column>
+    <column id="135" parent="99" name="NOME">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>VARCHAR2(20 byte)|0s</StoredType>
+    </column>
+    <column id="136" parent="99" name="LABORATORIO">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>VARCHAR2(20 byte)|0s</StoredType>
+    </column>
+    <index id="137" parent="99" name="PK_MEDICAMENTOS_ID_MEDICAMENTO">
+      <ColNames>ID_MEDICAMENTO</ColNames>
+      <CreatedTimestamp>2025-01-24.22:42:20</CreatedTimestamp>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <ObjectId>107036</ObjectId>
+      <Unique>1</Unique>
+      <TablespaceName>USERS</TablespaceName>
+    </index>
+    <key id="138" parent="99" name="PK_MEDICAMENTOS_ID_MEDICAMENTO">
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:20</ModifiedTimestamp>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PK_MEDICAMENTOS_ID_MEDICAMENTO</UnderlyingIndexName>
+    </key>
+    <column id="139" parent="100" name="ID_CONSULTA">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>NUMBER(*)|0s</StoredType>
+    </column>
+    <column id="140" parent="100" name="ID_MEDICAMENTO">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>NUMBER(*)|0s</StoredType>
+    </column>
+    <foreign-key id="141" parent="100" name="FK_MEDICAMENTOS_RECEITADOS_ID_CONSULTAS">
+      <ColNames>ID_CONSULTA</ColNames>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <OnDelete>restrict</OnDelete>
+      <RefKeyName>PK_CONSULTAS_ID_CONSULTAS</RefKeyName>
+      <RefTableName>CONSULTAS</RefTableName>
+    </foreign-key>
+    <foreign-key id="142" parent="100" name="FK_MEDICAMENTOS_RECEITADOS_ID_MEDICAMENTO">
+      <ColNames>ID_MEDICAMENTO</ColNames>
+      <ModifiedTimestamp>2025-01-24.22:42:22</ModifiedTimestamp>
+      <OnDelete>restrict</OnDelete>
+      <RefKeyName>PK_MEDICAMENTOS_ID_MEDICAMENTO</RefKeyName>
+      <RefTableName>MEDICAMENTOS</RefTableName>
+    </foreign-key>
+    <index id="143" parent="100" name="PK_MEDICAMENTOS_RECEITAS_ID_CONSULTA_ID_MEDICAMENTO">
+      <ColNames>ID_CONSULTA
+ID_MEDICAMENTO</ColNames>
+      <CreatedTimestamp>2025-01-24.22:42:21</CreatedTimestamp>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <ObjectId>107038</ObjectId>
+      <Unique>1</Unique>
+      <TablespaceName>USERS</TablespaceName>
+    </index>
+    <key id="144" parent="100" name="PK_MEDICAMENTOS_RECEITAS_ID_CONSULTA_ID_MEDICAMENTO">
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PK_MEDICAMENTOS_RECEITAS_ID_CONSULTA_ID_MEDICAMENTO</UnderlyingIndexName>
+    </key>
+    <check id="145" parent="101" name="NN_MEDICOS_DATA_NASCIMENTO">
+      <ColNames>DATA_NASCIMENTO</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:19</ModifiedTimestamp>
+      <Predicate>&quot;DATA_NASCIMENTO&quot; IS NOT NULL</Predicate>
+    </check>
+    <check id="146" parent="101" name="NN_MEDICOS_ID_ESPECIALIDADE">
+      <ColNames>ID_ESPECIALIDADE</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:19</ModifiedTimestamp>
+      <Predicate>&quot;ID_ESPECIALIDADE&quot; IS NOT NULL</Predicate>
+    </check>
+    <check id="147" parent="101" name="NN_MEDICOS_NOME">
+      <ColNames>NOME</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:19</ModifiedTimestamp>
+      <Predicate>&quot;NOME&quot; IS NOT NULL</Predicate>
+    </check>
+    <column id="148" parent="101" name="ID_MEDICO">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>NUMBER(*)|0s</StoredType>
+    </column>
+    <column id="149" parent="101" name="ID_ESPECIALIDADE">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>NUMBER(*)|0s</StoredType>
+    </column>
+    <column id="150" parent="101" name="ID_MEDICO_CHEFE">
+      <Position>3</Position>
+      <StoredType>NUMBER(*)|0s</StoredType>
+    </column>
+    <column id="151" parent="101" name="NOME">
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>VARCHAR2(20 byte)|0s</StoredType>
+    </column>
+    <column id="152" parent="101" name="HOSPITAL">
+      <Position>5</Position>
+      <StoredType>VARCHAR2(20 byte)|0s</StoredType>
+    </column>
+    <column id="153" parent="101" name="DATA_NASCIMENTO">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>DATE|0s</StoredType>
+    </column>
+    <column id="154" parent="101" name="COD_POSTAL">
+      <Position>7</Position>
+      <StoredType>VARCHAR2(8 byte)|0s</StoredType>
+    </column>
+    <foreign-key id="155" parent="101" name="FK_MEDICOS_ID_ESPECIALIDADE">
+      <ColNames>ID_ESPECIALIDADE</ColNames>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <OnDelete>restrict</OnDelete>
+      <RefKeyName>PK_ESPECIALIDADES_ID_ESPECIALIDADE</RefKeyName>
+      <RefTableName>ESPECIALIDADES</RefTableName>
+    </foreign-key>
+    <foreign-key id="156" parent="101" name="FK_MEDICOS_ID_MEDICO_CHEFE">
+      <ColNames>ID_MEDICO_CHEFE</ColNames>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <OnDelete>restrict</OnDelete>
+      <RefKeyName>PK_MEDICOS_ID_MEDICO</RefKeyName>
+      <RefTableName>MEDICOS</RefTableName>
+    </foreign-key>
+    <foreign-key id="157" parent="101" name="FK_MEDICOS_COD_POSTAL">
+      <ColNames>COD_POSTAL</ColNames>
+      <ModifiedTimestamp>2025-01-24.22:42:21</ModifiedTimestamp>
+      <OnDelete>restrict</OnDelete>
+      <RefKeyName>PK_CODIGOS_POSTAIS_COD_POSTAL</RefKeyName>
+      <RefTableName>CODIGOS_POSTAIS</RefTableName>
+    </foreign-key>
+    <index id="158" parent="101" name="PK_MEDICOS_ID_MEDICO">
+      <ColNames>ID_MEDICO</ColNames>
+      <CreatedTimestamp>2025-01-24.22:42:19</CreatedTimestamp>
+      <ModifiedTimestamp>2025-01-24.22:42:19</ModifiedTimestamp>
+      <ObjectId>107029</ObjectId>
+      <Unique>1</Unique>
+      <TablespaceName>USERS</TablespaceName>
+    </index>
+    <key id="159" parent="101" name="PK_MEDICOS_ID_MEDICO">
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:19</ModifiedTimestamp>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PK_MEDICOS_ID_MEDICO</UnderlyingIndexName>
+    </key>
+    <check id="160" parent="102" name="NN_PACIENTES_DATA_NASCIMENTO">
+      <ColNames>DATA_NASCIMENTO</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:19</ModifiedTimestamp>
+      <Predicate>&quot;DATA_NASCIMENTO&quot; IS NOT NULL</Predicate>
+    </check>
+    <check id="161" parent="102" name="NN_PACIENTES_NOME">
+      <ColNames>NOME</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:19</ModifiedTimestamp>
+      <Predicate>&quot;NOME&quot; IS NOT NULL</Predicate>
+    </check>
+    <column id="162" parent="102" name="ID_PACIENTE">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>NUMBER(*)|0s</StoredType>
+    </column>
+    <column id="163" parent="102" name="NOME">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>VARCHAR2(20 byte)|0s</StoredType>
+    </column>
+    <column id="164" parent="102" name="DATA_NASCIMENTO">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>DATE|0s</StoredType>
+    </column>
+    <column id="165" parent="102" name="COD_POSTAL">
+      <Position>4</Position>
+      <StoredType>VARCHAR2(8 byte)|0s</StoredType>
+    </column>
+    <foreign-key id="166" parent="102" name="FK_PACIENTES_COD_POSTAL">
+      <ColNames>COD_POSTAL</ColNames>
+      <ModifiedTimestamp>2025-01-24.22:42:22</ModifiedTimestamp>
+      <OnDelete>restrict</OnDelete>
+      <RefKeyName>PK_CODIGOS_POSTAIS_COD_POSTAL</RefKeyName>
+      <RefTableName>CODIGOS_POSTAIS</RefTableName>
+    </foreign-key>
+    <index id="167" parent="102" name="PK_PACIENTES_ID_PACIENTE">
+      <ColNames>ID_PACIENTE</ColNames>
+      <CreatedTimestamp>2025-01-24.22:42:19</CreatedTimestamp>
+      <ModifiedTimestamp>2025-01-24.22:42:19</ModifiedTimestamp>
+      <ObjectId>107031</ObjectId>
+      <Unique>1</Unique>
+      <TablespaceName>USERS</TablespaceName>
+    </index>
+    <key id="168" parent="102" name="PK_PACIENTES_ID_PACIENTE">
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <ModifiedTimestamp>2025-01-24.22:42:19</ModifiedTimestamp>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PK_PACIENTES_ID_PACIENTE</UnderlyingIndexName>
+    </key>
+  </database-model>
+</dataSource>
