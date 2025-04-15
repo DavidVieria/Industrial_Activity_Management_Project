@@ -1,0 +1,4 @@
+id_machine;machine_state;operation_number;machine_state;operation_number;machine_state;operation_number;
+1;ON;24;ON;28;OFF;28;
+2;ON;16;OFF;23;ON;23;
+3;ON;19;OFF;21;ON;21;

@@ -1,0 +1,4 @@
+id,name,temp_min,temp_max,hum_min,hum_max,buffer_length,median_window_length
+1,MachineA,10.0,50.0,20.0,80.0,10,5
+2,MachineB,15.0,45.0,25.0,70.0,8,3
+3,MachineC,20.0,60.0,30.0,90.0,12,7

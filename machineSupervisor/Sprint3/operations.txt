@@ -1,0 +1,7 @@
+id_machine,operation,operation_number,timestamp
+1,Cutting,24,2024-12-27T10:00:00
+1,Milling,28,2024-12-27T10:30:00
+2,Drilling,16,2024-12-27T11:00:00
+3,Assembling,21,2024-12-27T11:30:00
+2,Grinding,23,2024-12-27T12:00:00
+3,Cutting,19,2024-12-27T12:30:00
