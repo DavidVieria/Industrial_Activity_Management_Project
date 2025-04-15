@@ -1,0 +1,452 @@
+2ª SEMANA
+1ª Reunião
+29/10, 15min, ISEP:
+What did I do today?
+
+Igor - Reading and interpretation of the statement.
+Daniel - Understanding the statement and interpreting the difficulty of each user story.
+David - Deeper analysis and understanding of the new statement for the assigned Sprint 2 project, along with the beginning of backlog structuring.
+Rafael - Grasping the requirements and evaluating the complexity of each user story.
+
+What am I going to do tomorrow?
+
+Igor - Start thinking about possible solutions for the project.
+Daniel - Asking the client questions about what I couldn't understand.
+David - Start thinking about the business model behind this project.
+Rafael - Seeking clarification from the client regarding aspects I couldn't fully grasp.
+
+The difficulties I had?
+
+Igor - Understand certain more specific aspects.
+Daniel - Understand some user stories and their difficulty.
+David - Having difficulty understanding the exact intentions behind certain user stories and fully grasping some unclear concepts.
+Rafael - Comprehending certain user stories and assessing their challenges.
+
+What is your opinion about your performance in the project or group?
+
+Igor - I helped the team interpret the statement, demonstrating what was most important that I had retained.
+Daniel - I helped the team in interpreting the statement and better understanding certain concepts, so I am satisfied.
+David - I believe I contributed by interpreting the new project statement for the other members, explaining my understanding of it, clarifying some concepts, and assisting with the initial structuring of the backlog.
+Rafael - I interpreted my user stories and helped my group interpret theirs, so I think I did a good job.
+
+2ª Reunião
+31/10, 20min, ISEP:
+What did I do today?
+
+Igor - Gathered materials needed for FSIAP and started observing how they work.
+Daniel - I started a sketch of what the production tree would look like.
+David - Trying to identify the necessary changes for the relational model in BDDAD and understanding how the inputs and trees would work for ESINF.
+Rafael - Started working on USAC07.
+
+What am I going to do tomorrow?
+
+Igor - Continue to understand how materials work and begin USEI09.
+Daniel - Continuing the production tree.
+David - Organized project files and started working on a new relational model for BDDAD.
+Rafael - Continue working on USAC07 and start USAC08.
+
+The difficulties I had?
+
+Igor - Initial unfamiliarity with the functionalities of the FSIAP materials.
+Daniel - Understand the flow of items/operations.
+David - Understand how the BOO would work for this sprint, and whether all the database changes would be related to the BOO.
+Rafael - Understanding what the user story was asking for.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Proactively researched the materials and initiated analysis for FSIAP use.
+Daniel - I'm giving the team a good start.
+David - I think it's good.
+Rafael - I am starting early on ARQCP; I think I am on the right path.
+
+3ª Reunião
+4/11, 15min, ISEP:
+What did I do today?
+
+Igor - Advanced with USEI09.
+Daniel - Latest adjustments to all code in the production tree.
+David - Start updating the conceptual/relational model.
+Rafael - Started working on the ESINF user stories.
+
+What am I going to do tomorrow?
+
+Igor - Implement USBD15.
+Daniel - Explain the structure to the rest of the team, as they need to know how the tree is implemented.
+David - Clarify some doubts with the professor and continue working on the relational model.
+Rafael - Continue working on the ESINF user stories.
+
+The difficulties I had?
+
+Igor - Understanding the structure for implementing searches in the production tree.
+Daniel - Implement the flow of items/operations.
+David - Understand how the BOO works now.
+Rafael - Figuring out how to organize the priority queue.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Focused on developing efficient search functionalities.
+Daniel - I'm having good communication with the team.
+David - Good, since I have contributed to the project and communicated with the team.
+Rafael - I am maintaining good communication with the team.
+
+4ª Reunião
+6/11, 15min, ISEP:
+What did I do today?
+
+Igor - Developed the system structure for USBD15.
+Daniel - I better understood how the functions and procedures work to create BDDAD user stories.
+David - Completion of my first version of the conceptual model and I started converting it to the relational (logical) model.
+Rafael - Continued working on the ESINF user stories, specifically USEI11.
+
+What am I going to do tomorrow?
+
+Igor - Move to USAC10 (collaborating with Rafael).
+Daniel - Start USBD18.
+David - Finish the relational model and convert it to the physical level.
+Rafael - I hope to finish USEI11 and start figuring out how to approach USEI14.
+
+The difficulties I had?
+
+Igor - Adjusting the functions to align with production management needs.
+Daniel - I didn't feel any difficulty today.
+David - I didn't feel any difficulty today.
+Rafael - Organizing the priority queue correctly.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Collaboration with the team improved the design and planning process.
+Daniel - We are on a good path.
+David - I believe that the lack of information for this sprint is negatively affecting my performance.
+Rafael - We are on the right track.
+
+5ª Reunião
+** 8/11, 20min, Class:**
+What did I do today?
+
+Igor - Worked on debugging the code for USAC10 and refining collaboration.
+Daniel - I advanced with USBD13.
+David - Complete the first version of the relational model (logical and physical level).
+Rafael - Decided to start working on database tasks.
+
+What am I going to do tomorrow?
+
+Igor - Finalize implementation of USLP04.
+Daniel - Start USAC01.
+David - Start USAC05
+Rafael - Continue working on the database tasks.
+
+The difficulties I had?
+
+Igor - Troubleshooting unexpected behavior in the system functions.
+Daniel - Understand how to loop for byproducts.
+David - I didn't feel any difficulty today.
+Rafael - I didn’t face any difficulties today.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Maintained focus and supported the group effectively.
+Daniel - I was busier trying to resolve the difficulty I encountered.
+David - I still believe that the lack of information for this sprint is negatively affecting my performance and that of the team.
+Rafael - I am progressing well with my user stories and am satisfied.
+
+3ª SEMANA
+1ª Reunião
+11/11, 15min, ISEP:
+What did I do today?
+
+Igor - Collaborated with Rafael on USAC10.
+Daniel - I implemented USAC01.
+David - Update the relational model with the new information provided to us and I started creating the inserts manually.
+Rafael - Finished USBD17.
+
+What am I going to do tomorrow?
+
+Igor - Begin development of USLP04.
+Daniel - Start USAC04.
+David - Start USAC05 and ask some questions to the professor.
+Rafael - Start planning how to implement USEI14.
+
+The difficulties I had?
+
+Igor - Managing task prioritization among different user stories.
+Daniel - Have the implementation pass the provided tests.
+David - Understand how a buffer works.
+Rafael - Identifying errors when an order already existed in the system.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Worked efficiently to maintain progress across multiple areas.
+Daniel - I believe I have actively contributed.
+David - I think we are much more on track now.
+Rafael - I believe I have contributed significantly so far.
+
+2ª Reunião
+13/11, 15min, ISEP:
+What did I do today?
+
+Igor - Started implementation for USLP04.
+Daniel - I started the USAC09 structure.
+David - I finished the inserts I made manually and started USAC05.
+Rafael - Started working on USEI14.
+
+What am I going to do tomorrow?
+
+Igor - Test and refine USAC02.
+Daniel - Test the user stories that I implemented for ARQCP.
+David - Start USBD12.
+Rafael - Continue working on USEI14.
+
+The difficulties I had?
+
+Igor - Ensuring smooth graphical integration for operation structures.
+Daniel - Understand why it wasn’t giving the expected results.
+David - I still don’t fully understand the logic of the buffer.
+Rafael - Understanding exactly what the statement required.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Balanced individual tasks while ensuring alignment with group efforts.
+Daniel - I was able to communicate the problems with the team.
+David -
+Rafael - I was able to communicate the problems with the team.
+
+3ª Reunião
+15/11, 20min, Class:
+What did I do today?
+
+Igor - Tested functionalities for USAC02.
+Daniel - I spoke with the client about how AVL fits in with the Simulator (ESINF).
+David - I finished USBD12 and started USEI10.
+Rafael - Talked to the client about USEI14.
+
+What am I going to do tomorrow?
+
+Igor - Develop material monitoring for USFA01.
+Daniel - Try to replicate what was explained.
+David - Continue working on USEI10.
+Rafael - Continue working on USEI14.
+
+The difficulties I had?
+
+Igor - Interpreting output data for integration with hardware.
+Daniel - Understanding the fit with the simulator.
+David - I didn't experience any difficulties.
+Rafael - Understanding what a critical path was.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Demonstrated persistence in troubleshooting technical issues.
+Daniel - I have been actively communicating to move forward as a group.
+David -
+Rafael - I have been actively communicating to help the team move forward.
+
+4ª Reunião
+16/11, 20min,Online (Discord):
+What did I do today?
+
+Igor - Began material monitoring using sensors for USFA01.
+Daniel - I implemented the AVL tree structure (USEI15).
+David - Updated the relational model and inserted data, and started USBD16.
+Rafael - Talked to the professor to clarify doubts I couldn’t resolve with the client.
+
+What am I going to do tomorrow?
+
+Igor - Work on logging data for USFA02.
+Daniel - Consult changes made in BDDAD.
+David - Continue working on USEI10.
+Rafael - Continue working on USEI14.
+
+The difficulties I had?
+
+Igor - Adjusting the code to match sensor specifications.
+Daniel - Understanding how the AVL tree works.
+David - I didn't experience any difficulties.
+Rafael - Implementing the critical paths.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Progressed significantly with hardware-related tasks.
+Daniel - I have been giving tips to my group especially in ESINF.
+David -
+Rafael - I have been doing my best to complete USEI14.
+
+4ª SEMANA
+1ª Reunião
+18/11, 15min, ISEP:
+What did I do today?
+
+Igor - Enhanced the visualization process for USAC02.
+Daniel - See what it would be like to graphically create the production structure of a product.
+David - Finished USEI10.
+Rafael - Finished USEI14.
+
+What am I going to do tomorrow?
+
+Igor - Proceed with data integration for USFA01.
+Daniel - Implement the chart.
+David - Start USAC06.
+Rafael - Start working on USAC10
+
+The difficulties I had?
+
+Igor - Adjusting to the technical demands of graphical user story representation.
+Daniel - Understand how to complete the main tree to subtrees.
+David - I didn't experience any difficulties.
+Rafael - Understanding the statement.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Achieved milestones efficiently, focusing on structured development.
+Daniel - We are on a good path.
+David -
+Rafael - We are on the right path.
+
+2ª Reunião
+20/11, 15min, ISEP:
+What did I do today?
+
+Igor - Integrated sensors and started monitoring as per USFA01.
+Daniel - I made progress with the graph but it's not finished yet.
+David - Started and finished USAC06.
+Rafael - Made progress on USAC10.
+
+What am I going to do tomorrow?
+
+Igor - Collect and log data for USFA02.
+Daniel - Perform USBD14.
+David - Start USAC09.
+Rafael - Continue working on USAC10.
+
+The difficulties I had?
+
+Igor - Configuring hardware for continuous monitoring.
+Daniel - Join subtrees to the main tree.
+David - I didn't experience any difficulties.
+Rafael - Organizing the list.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Satisfied with the initial results and hardware integration.
+Daniel - I was able to communicate the problems with the team.
+David - I believe I contributed to resolving key doubts and ensuring the database structure aligns with the project requirements.
+Rafael - We are making good progress.
+
+3ª Reunião
+21/11, 20min, ISEP:
+What did I do today?
+
+Igor - Logged data and started analysis for USFA02.
+Daniel - I made new inserts for the USBD14 function to have something testable.
+David - Finished USAC19.
+Rafael - Finished USAC10.
+
+What am I going to do tomorrow?
+
+Igor - Compile results and validate for reporting.
+Daniel - Finish implementing the function.
+David - Start USEI13.
+Rafael - Test the ARQCP user stories I worked on.
+
+The difficulties I had?
+
+Igor - Handling large data logs efficiently.
+Daniel - None.
+David - I didn't experience any difficulties.
+Rafael - Finalizing the assembly implementation.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Gained insights into data handling and analysis.
+Daniel - I focused on implementing my user story, I didn't communicate much with the team.
+David - I believe I maintained consistency in refining the database model and supported the team with structural decisions.
+Rafael - We are almost done with everything and are doing well.
+
+4ª Reunião
+22/11, 20min, Class:
+What did I do today?
+
+Igor - Validated results and prepared final integration of USFA02.
+Daniel - I finished USBD14.
+David - I finished USEI13.
+Rafael - Conducted tests for ARQCP user stories and made necessary corrections.
+
+What am I going to do tomorrow?
+
+Igor - Begin preparing the final presentation.
+Daniel - Make the csv files for ESINF from the BDDAD.
+David - Update the relational model and inserts, along with the user stories for BDDAD in general, due to the new information provided.
+Rafael - Write unit tests for the ESINF user stories.
+
+The difficulties I had?
+
+Igor - Adjusting to presentation format requirements.
+Daniel - None.
+David - None.
+Rafael - Making some corrections.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Demonstrated commitment to completing tasks successfully.
+Daniel - I continued to focus on implementing my user story.
+David - I feel my contributions in updating the database structure were valuable for the team’s progress.
+Rafael - We are on an excellent path.
+
+5ª Reunião
+23/11, 15min, Online (Discord):
+What did I do today?
+
+Igor - Finalized details for the project presentation.
+Daniel - Adapt the BDDAD data to the csv format.
+David - I just updated the user stories for BDDAD in general, due to the new relational model created.
+Rafael - Wrote unit tests for ESINF user stories.
+
+What am I going to do tomorrow?
+
+Igor - Deliver final review with the team.
+Daniel - Connection of BDDAD user stories to the UI (Java).
+David - Review the user stories for ARQCP and improve them.
+Rafael - Review everything once more.
+
+The difficulties I had?
+
+Igor - Managing time for last-minute refinements.
+Daniel - Understand how the format could be adapted as legacy data had different correspondences.
+David - None.
+Rafael - Creating some of the tests.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Collaborated well to ensure the project meets expectations.
+Daniel - We have progressed well in this final stretch with the project.
+David - I ensured the database updates were accurately reflected in our models, aiding overall project consistency.
+Rafael - We are almost done with everything; everything is going well.
+
+6ª Reunião
+24/11, 15min, Online (Discord):
+What did I do today?
+
+Igor - Delivered the final review and ensured all tasks were complete.
+Daniel - Final review of everything I did.
+David - Final review of everything and improved what was possible.
+Rafael - Final review of everything.
+
+What am I going to do tomorrow?
+
+Igor - Conclude and reflect on the project sprint.
+Daniel - Reflect on the sprint.
+David - Reflect on the sprint.
+Rafael - Evaluate the sprint outcomes.
+
+The difficulties I had?
+
+Igor - None.
+Daniel - None.
+David - None
+Rafael - None
+
+What is your opinion about your performance in the project or group?
+
+Igor - Successfully achieved all objectives with a strong team effort.
+Daniel - We worked well as a group and knew how to adapt to the circumstances.
+David - I believe my contributes significantly to the project's stability
+Rafael - We collaborated effectively as a team and adjusted well to the challenges.

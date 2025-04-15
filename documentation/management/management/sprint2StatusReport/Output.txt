@@ -1,0 +1,15 @@
+Here is a brief summary of each team member's performance based on the details provided:
+
+Igor: Throughout the Sprint, Igor demonstrated strong technical skills and a consistent approach to problem-solving. He worked on several key tasks, such as developing search functionalities, collaborating with Rafael on various user stories, and managing hardware integration for sensor monitoring. His focus on troubleshooting and supporting the team with system issues was valuable. However, he encountered challenges with task prioritization and understanding certain aspects of hardware and software integration. Overall, he maintained a positive attitude and made significant contributions to project development.
+
+Daniel: Daniel actively participated in structuring the project and was heavily involved in the development of production trees, AVL trees, and the implementation of various user stories. His communication skills were valuable in clarifying problems with the team and ensuring everyone was aligned. He also faced difficulties with understanding certain flows and passing tests but continued to provide guidance and feedback to others. Daniel kept a focused approach, but at times, his individual work led to less interaction with the team.
+
+David: David contributed consistently to the project, particularly in updating and structuring the relational and conceptual models. He worked diligently on transforming the models to different levels (conceptual, relational, and physical) and addressed challenges related to database structure and buffer logic. Despite some difficulties with a lack of information in earlier stages, David maintained a steady pace and was instrumental in ensuring that the project’s database structure was aligned with the team's needs. His contributions helped keep the project on track, especially in areas requiring technical expertise.
+
+Rafael: Rafael showed strong dedication to his tasks, particularly in working on user stories related to the database and communication with the professor and client for clarification. He handled complex tasks like USEI14 and made steady progress with implementing and testing the ARQCP user stories. Despite encountering challenges with task organization and critical paths, Rafael remained proactive, seeking help when needed and ensuring he stayed aligned with the project’s goals.
+
+Overall Team Performance:
+The team demonstrated effective collaboration, despite individual challenges. They communicated well, addressed technical issues efficiently, and maintained a focus on meeting deadlines. However, at times, there were difficulties with aligning individual work with the overall project vision, particularly in the earlier stages. Overall, the team showed growth in handling complex tasks and demonstrated resilience in addressing obstacles.
+
+Team Rating: 4/5
+This rating reflects the team's ability to navigate challenges, contribute effectively to the project, and maintain good communication, while still facing some struggles with task alignment and information flow.

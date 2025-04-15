@@ -1,0 +1,209 @@
+- 11/10, 15min, Class:
+
+What did I do today?
+
+Igor - Reading and interpretation of the statement.
+Daniel - Understanding the statement and interpreting the difficulty of each user story.
+David - Deeper analysis and understanding of the assigned project and the beginning of backlog structuring.
+Rafael - I analyzed specific project requirements and clarified areas for the team.
+
+What am I going to do tomorrow?
+
+Igor - Start thinking about possible solutions for the project.
+Daniel - Asking the client questions about what I couldn't understand.
+David - Start thinking about the business model behind this project.
+Rafael - I’ll start drafting possible solutions and prepare questions for any unclear parts.
+
+The difficulties I had?
+
+Igor - Understand certain more specific aspects.
+Daniel - Understand some user stories and their difficulty.
+David - Understanding the exact intentions behind certain user stories and grasping some concepts that weren't entirely clear.
+Rafael - Some requirements were hard to interpret due to unclear terms.
+
+What is your opinion about your performance in the project or group?
+
+Igor - I helped the team interpret the statement, demonstrating what was most important that I had retained.
+Daniel - I helped the team in interpreting the statement and better understanding certain concepts, so I am satisfied.
+David - I believe I contributed by interpreting the project for the other members, explaining my understanding of it and clarifying some concepts, as well as in the initial structuring of the backlog.
+Rafael - I helped set a strong foundation by clarifying project details. I’m pleased with our progress.
+
+- 14/10, 20min, ISEP:
+
+What did I do today?
+
+Igor - Re-read the statement and write down the words that need to be in the glossary (USBD01).
+Daniel - I started my part of USBD02, starting from the entities and relationships between them.
+David - I started my part of USBD02, based on the notes I took from the project statement.
+Rafael - I started my part of USBD02, based on the notes I took from my analysis.
+
+What am I going to do tomorrow?
+
+Igor - Look for definitions of words.
+Daniel - Go deeper into the model with the parameters of each entity.
+David - Look in the statement and the forum for questions that have already been asked to the client to identify possible attributes for the entities. / Start working at USEI01.
+Rafael - Carry on the work on USBD02 and, if possible, start USBD08.
+
+The difficulties I had?
+
+Igor - Choose and find which words needed to be in the glossary.
+Daniel - Difficulties in understanding how some relationships should be.
+David - Difficulties in understanding what could or could not be considered an entity.
+Rafael - Difficulties in normalizing tables.
+
+What is your opinion about your performance in the project or group?
+
+Igor - I re-read the statement and removed the words that I thought were relevant to include in the glossary, thus fulfilling what was assigned to me. The next step is to look for the definition of the words.
+Daniel - I have accomplished what was intended and maintained open communication with the team.
+David - I am following what was defined by the group, even though I am experiencing some initial difficulties.
+Rafael - I made significant progress on my part of the project and maintained communication with the team.
+
+- 16/10, 10min, ISEP:
+
+What did I do today?
+
+Igor - Look for definitions of previously noted words.
+Daniel - I started the simulator to USEI02.
+David - I finished and updated my part of USBD02, according to the new data provided to us.
+Rafael - Started working on USEI04 made progress on USBD08.
+
+What am I going to do tomorrow?
+
+Igor - Start carrying out US04 and US06 of BDDAD.
+Daniel - Improve the simulator.
+David - Combine everything that the group members have done for USBD02 into a single conceptual database model.
+Rafael - keep on working, mostly on USEI04.
+
+The difficulties I had?
+
+Igor - Being able to find short definitions that fit the context of the project.
+Daniel - Understand how articles are processed in the simulator
+David - Initially, I didn't fully understand what should or shouldn't be included in a conceptual database model, but now I feel much clearer.
+Rafael - At the beggining i wasn't using well the Maps in Java, but after some time i got used to it.
+
+What is your opinion about your performance in the project or group?
+
+Igor - With the definitions and words already gathered, I was able to do a good job for the group.
+Daniel - I believe I have actively contributed.
+David - I think I have more to offer.
+Rafael - I made yet again significant progress in my US.
+
+- 18/10, 15min, Class:
+
+What did I do today?
+
+Igor - Start USBD04 and USBD06, focusing first on completing USBD04.
+Daniel - I adapted the simulator to take into account the priority of the articles (USEI08).
+David - With the help of the group, we built a single conceptual database model, and I started to convert it to the logical level.
+Rafael - Final adjustments for USBD08 and USEI04.
+
+What am I going to do tomorrow?
+
+Igor - Complete USBD04, and then focus on completing USBD06 and starting US03 and US07 of ESINF.
+Daniel - Final adjustments to the simulator.
+David - Finish converting the conceptual model into a logical relational model. / Start working at USEI05.
+Rafael - Start working on USEI06.
+
+The difficulties I had?
+
+Igor - In USBD04, I am able to apply the two constraints that are given in the project statement.
+Daniel - Take into account the complexity of the program as best as possible.
+David - Combining the different interpretations of the conceptual model that we had created.
+Rafael - Final adjustments to USEI04
+
+What is your opinion about your performance in the project or group?
+
+Igor - I have been striving every day to give my best in carrying out the different parts of the project.
+Daniel - I feel like my performance has been solid.
+David - I think my current performance in the project is good, but it could still be better.
+Rafael - I believe i have contributed significantly.
+
+- 21/10, 20min, ISEP:
+
+What did I do today?
+
+Igor - Conclusion of USBD06 and progress on ESINF user stories.
+Daniel - Formulas in the Excel spreadsheet to automatically generate data.
+David - Finalization of the logical model and instantiation of the relational model (physical level).
+Rafael - Managed to get most of USEI06 done.
+
+What am I going to do tomorrow?
+
+Igor - Complete the two ESINF user stories and move on to USLP01 and the complexity analysis of the algorithms performed for ESINF.
+Daniel - Adjustments to the relational model.
+David - Use manual inserts to test the relational model in Oracle Live SQL.
+Rafael - Keep working on USEI06.
+
+The difficulties I had?
+
+Igor - In this part I didn't feel any difficulty that stood out.
+Daniel - Some errors that appeared when entering new data.
+David - As expected, some errors appeared; however, a few adjustments were sufficient to resolve the situation.
+Rafael - Get the waiting times in USEI06.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Like the rest of the group, I believe that my contribution has been growing.
+Daniel - I believe I’ve been actively contributing.
+David - I think I have improved.
+Rafael - I think I'm contributing well.
+
+- 23/10, 10min, ISEP:
+
+What did I do today?
+
+Igor - Together with David, we developed USLP01 and then I was concerned with the complexity analysis of the algorithms carried out for ESINF.
+Daniel - I made the sql code for USBD05.
+David - I made the sql code for USBD07, and I made some adjustments to the relational model.
+Rafael - Final adjustments in USEI06.
+
+What am I going to do tomorrow?
+
+Igor - Complete the analysis of the algorithms' complexities.
+Daniel - Generate results in a csv and the simulator's text interface.
+David - Update the domain model to USLP01.
+Rafael - Start working on USLP02 and review all my work, if possible.
+
+The difficulties I had?
+
+Igor - The difficulties experienced in preparing USLP01 were made clear when discussing with David.
+Daniel - I didn't have.
+David - Just a few errors that appeared, but they were quickly corrected.
+Rafael - Generate the waiting times in USEI06.
+
+What is your opinion about your performance in the project or group?
+
+Igor - Every day I feel more integrated with the project, and I have contributed to the group.
+Daniel - This time I focused more on developing my task, leaving aside the team, I have to improve in the next few days.
+David - I believe I have improved a lot and am now dedicating myself more to the project.
+Rafael - I think I've improved a lot since the beginning of the project, and I'm happy with how the team is working.
+
+- 25/10, 15min, ISEP:
+
+What did I do today?
+
+Igor - Complete the analysis of the algorithms' complexities, and then attach the corresponding file to the project.
+Daniel - Evolve the simulator text interface (USLP02).
+David - Review, error correction, and update of all database user stories.
+Rafael - Worked with Daniel in USLP02 reviwed my work.
+
+What am I going to do tomorrow?
+
+Igor - General review of the project and, if necessary, changes to small aspects.
+Daniel - General review of the project.
+David - Review of the entire project and final adjustments.
+Rafael - Final adjustments if needed.
+
+The difficulties I had?
+
+Igor - Analyze certain lines of code.
+Daniel - Generate file external to the IDE that runs the program.
+David - I didn't feel any difficulties.
+Rafael - Gerenate the external file to the IDE.
+
+What is your opinion about your performance in the project or group?
+
+Igor - I feel that in these last few days we are doing our best to not fail in anything in our project.
+Daniel - I think my collaboration with the team has been strong.
+David - I think my collaboration with the team was not very strong at first, but I have managed to make up for it by improving significantly and dedicating myself more to the project. I intend to maintain this level of commitment in the upcoming sprints.
+Rafael - I believe i worked well in this sprint, but i still think i can improve in the next one.

@@ -1,0 +1,15 @@
+### Individual Performance Summaries:
+
+1. **Igor**: Demonstrated steady progress, beginning with interpretation of the project statement and glossary tasks. He later shifted focus to completing user stories in BDDAD and ESINF, tackling complexity analysis. Igor showed a growing integration within the project, actively contributing to user story implementations and code reviews.
+
+2. **Daniel**: Focused on user stories related to the simulator and relational model. He handled simulator enhancements and took the lead on SQL code for various user stories, demonstrating solid progress. However, Daniel recognized a need to balance individual task focus with team collaboration, which he aims to improve.
+
+3. **David**: David contributed significantly to database model construction, progressing from conceptual to logical and physical levels. His collaboration improved over time, particularly as he moved towards handling data integration and Oracle Live SQL testing. David reported some initial difficulties but addressed them, boosting his project contributions.
+
+4. **Rafael**: Progressed through tasks on USBD08 and USEI04, later collaborating on SQL coding and final project reviews. Rafael adjusted to challenges with specific functionalities, showing consistent development and adaptability. He noted an upward trajectory in his contribution and is keen to enhance performance further.
+
+### Team Performance Assessment:
+
+The team collectively displayed a strong commitment to project goals and an improving collaboration trend over time. Initial challenges with understanding the project statement and certain user story requirements were efficiently addressed, with members supporting each other to clarify ambiguities. Their performance in later stages reflects increased synergy and dedication, with individuals taking on specialized roles while contributing to collective problem-solving.
+
+**Overall Team Rating**: 4/5

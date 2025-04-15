@@ -1,0 +1,554 @@
+### **02/12, 10min, ISEP:**
+
+> - What did I do today? 
+>
+>      Igor - Reading and interpretation of the statement.
+>      Daniel - Understanding the statement and interpreting the difficulty of each user story.
+>      David - Deeper analysis and understanding of the new statement for the assigned Sprint 3 project, along with the beginning of backlog structuring.
+>      Rafael -  Initial analysis of the statement to understand the project requirements and identify aspects that might need further clarification or focus.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Start thinking about possible solutions for the project.
+>      Daniel - Asking the client questions about what I couldn't understand.
+>      David - Clarify some questions with the professor about the ESINF part.
+>      Rafael -  Collaborate on defining possible approaches to solve the user stories and prepare specific questions to discuss with the client or team.
+
+> - The difficulties I had?
+> 
+>      Igor - Understand certain more specific aspects.
+>      Daniel - Understand some user stories and their difficulty.
+>      David - Understand some aspects related to certain user stories.
+>      Rafael - Clarifying specific details of certain user stories and estimating their level of difficulty.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - I helped the team interpret the statement, demonstrating what was most important that I had retained.
+>      Daniel - I helped the team in interpreting the statement and better understanding certain concepts, so I am satisfied.
+>      David - I believe I contributed by interpreting the new project statement for the other members, explaining my understanding of it, clarifying some concepts, and assisting with the initial structuring of the backlog.
+>      Rafael -  I believe I contributed by identifying key points in the statement, highlighting potential challenges, and helping the team maintain a focused and organized approach.
+
+> - Hours worked:
+>
+>      Igor - 1
+>      Daniel - 2
+>      David - 1
+>      Rafael - 2
+
+- ### **04/12, 10min, ISEP:**
+
+> - What did I do today? 
+>
+>      Igor - I started solving USEI19.
+>      Daniel - I studied the construction of a PERT-CPM graph (USEI17).
+>      David - I studied how the PERT-CPM graph works.
+>      Rafael - I learned how the PERT-CPM graph operates.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Continue the USEI19 resolution.
+>      Daniel - Start implementing the PERT-CPM graph.
+>      David - Started implementing the code for USEI18 (implemented the UI code and created the required classes).
+>      Rafael - Start to work on USEI22.
+
+> - The difficulties I had?
+> 
+>      Igor - Interpret with the web of beginning to resolve the US.
+>      Daniel - Understand the flow of activities in the graph.
+>      David - Understand how the graph we need to implement will work.
+>      Rafael - Understanding well how the graph works.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - I started carrying out the US, making progress on the project like the other team members.
+>      Daniel - I'm making good progress on a user story that's very important for others.
+>      David - I believe I have already understood the basics to start coding the user stories I was assigned.
+>      Rafael - I believe i understood the graph and now i can start working on my US.
+
+> - Hours worked:
+>
+>      Igor - 2
+>      Daniel - 5
+>      David - 3
+>      Rafael - 3
+
+- ### **06/12, 15min, ISEP:**
+
+> - What did I do today? 
+>
+>      Igor - I started focusing on resolving the USEI19 implementation.
+>      Daniel - Analysis of new concepts to update the relational model. 
+>      David - Start implementing the code for the graph time calculator using a topological sort (USEI20).
+>      Rafael - I worked on USEI22.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Try to complete USEI19 and move on to solving USEI21.
+>      Daniel - Update the relational model with new information from sprint 3.
+>      David - Continue developing the algorithm.
+>      Rafael - Continue to work on USEI22.
+
+> - The difficulties I had?
+> 
+>      Igor - The resolution of the implementation of USEI19 was something that brought some difficulties as it was complex, but everything is progressing.
+>      Daniel - Difficulty understanding how materials work in different ways for the supplier.
+>      David - Try to understand how the topological sort works and how I would need to use it.
+>      Rafael - Understand how to make critical paths the right way.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - I made good progress in ESINF, I think the group is well at the beginning of this Sprint.
+>      Daniel - I advanced the relational model that is essential for the other BDDAD user stories.
+>      David - I believe my progress has been good.
+>      Rafael - I think i am doing my work relatively well.
+
+> - Hours worked:
+>
+>      Igor - 4
+>      Daniel - 3
+>      David - 2
+>      Rafael - 2
+
+- ### **09/12, 10min, ISEP:**
+
+> - What did I do today? 
+>
+>      Igor - I focused on finishing USEI19, and I have already started thinking about holding and how to carry out USEI21.
+>      Daniel - I explained to the rest of my group how a data structure for a PERT-CPM chart is created.
+>      David - I completed the implementation of the USEI20 code.
+>      Rafael - Finished USEI22 code.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Really start building USEI21.
+>      Daniel - Start my other us of ESINF.
+>      David - Start developing a test class for USEI20.
+>      Rafael - Start with USAC11
+
+> - The difficulties I had?
+> 
+>      Igor - I didn't have any doubts that I remember, to highlight.
+>      Daniel - None.
+>      David - Since my colleague helped me understand how he implemented USEI17, I didn't encounter any difficulties.
+>      Rafael - To get more then one critical path if there is more.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - I finished USEI19, ESINF is making good progress, the whole group is working well.
+>      Daniel - I was able to communicate what I wanted well with the team.
+>      David - I advanced the USEI20 code, which is essential for some ESINF user stories that my colleagues are responsible for.
+>      Rafael - I believe the team is working good.
+
+> - Hours worked:
+>
+>      Igor - 3
+>      Daniel - 3
+>      David - 4
+>      Rafael - 4
+
+- ### **11/12, 15min, ISEP:**
+
+> - What did I do today? 
+>
+>      Igor - I'm making the latest adjustments to USEI21.
+>      Daniel - Implementation of delay and impact simulation (USEI24)
+>      David - Start implementing the code for detecting circular dependencies in a graph (USEI18).
+>      Rafael - Made progress with the arduino code.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Check if there are words that can be added to the existing glossary and check if USEI19 and 21 need any adjustments.
+>      Daniel - Interpret the orders file and create the necessary entities.
+>      David - Finish developing the code.
+>      Rafael - Finish the arduino code and assemble the device.
+
+> - The difficulties I had?
+> 
+>      Igor - I felt that USEI21 was simpler than USEI19.
+>      Daniel - Understand how to assess the potential impact of these delays.
+>      David - Develop code to detect circular dependencies in the graph and return them.
+>      Rafael - the coding of the arduino itself.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - The group is always in constant communication, we are doing a good SPRINT so far.
+>      Daniel - Implementing user story relates to two other user stories, which was important.
+>      David - How I have finished an important user story, I think I have made good progress.
+>      Rafael - I believe i am making good progress with the arduino device.
+
+> - Hours worked:
+>
+>      Igor - 2
+>      Daniel - 5
+>      David - 4
+>      Rafael - 1
+
+- ### **13/12, 10min, ISEP:**
+
+> - What did I do today? 
+>
+>      Igor - From the last daily meeting to this one, I added the words that I found relevant to the glossary and checked adjustments that were necessary to make in the ESINF US.
+>      Daniel - Changing the graph data structure. 
+>      David - Although I think I will make improvements in the future, I have just implemented the code for USEI18.
+>      Rafael - Finished the code of USAC11.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Start carrying out tests for the ESINF US that are now complete.
+>      Daniel - Perform unit tests for my ESINF user stories.
+>      David - Create a test class to test the code developed for USEI18.
+>      Rafael - Start working on my other Esinf US.
+
+> - The difficulties I had?
+> 
+>      Igor - It was difficult to find the words to complete the glossary.
+>      Daniel - Understand how to adapt the implementation that has already been made to the new data structure.
+>      David - My algorithm wasn't detecting circular dependencies that intersected in the graph.
+>      Rafael - The code itself.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - I finished my ESINF US and completed the glossary, now it's time to continue like this and continue with constant progress with the other members of the group.
+>      Daniel - I finished the graphic, which is very important within the scope of the project.
+>      David - I think I am doing well in the project.
+>      Rafael - I think the team is doing well.
+
+> - Hours worked:
+>
+>      Igor - 3
+>      Daniel - 4
+>      David - 3
+>      Rafael - 5
+
+- ### **16/12, 20min, ISEP:**
+
+> - What did I do today? 
+>
+>      Igor - I continue working on carrying out the USEI19 and USEI21 tests.
+>      Daniel - Implementation of USPL06
+>      David - I improved the efficiency of the code for the USEI18 and USEI20 user stories, along with their respective test classes.
+>      Rafael - Begin of implementation of USEI23. Made some questions to the client about the US aswell.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Complete the ESINF US tests and proceed with USFA03.
+>      Daniel - View and interpret the new csv files provided
+>      David - Study the relational model more thoroughly and make any necessary adjustments.
+>      Rafael - Keep working on the same US.
+
+> - The difficulties I had?
+> 
+>      Igor - At this point in creating the tests, I didn't experience many difficulties.
+>      Daniel - Understand how to add orders to the simulator.
+>      David - None.
+>      Rafael - Understand the criteria i had to use.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - We continued at a good pace, everyone striving to make good daily progress.
+>      Daniel - It is an important us for the project as it brings together functionalities from the various sprints.
+>      David - I think I need to increase my work pace a bit.
+>      Rafael - I believe i am doing well.
+
+> - Hours worked:
+>
+>      Igor - 3
+>      Daniel - 7
+>      David - 4
+>      Rafael - 3
+
+- ### **18/12, 15min, ISEP:**
+
+> - What did I do today? 
+>
+>      Igor - I really started to study and understand how to build the Arduino.
+>      Daniel - Make changes to the graph implementation taking into account the new csv provided.
+>      David - Modified USEI18 according to the professor's feedback during class and completed my assigned user stories for the ESINF project.
+>      Rafael - Finished the implementation of USEI23.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Continue assembling and then creating the code.
+>      Daniel - Finishing my esinf user stories
+>      David - Improved Relational Model
+>      Rafael - Start my other Arqcp US.
+
+> - The difficulties I had?
+> 
+>      Igor - Understanding how to assemble it was one of the most challenging things about this project, I'm having some difficulties.
+>      Daniel - Understand how to assign the start and end vertex.
+>      David - None.
+>      Rafael - None.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - We are all working towards the same thing and we are communicating a lot and answering questions with each other.
+>      Daniel - We are knowing how to communicate very well with each other.
+>      David - Since the professor's advice required me to make several changes, it ended up delaying me a bit
+>      Rafael - I think we are making good progress once again and the team is in the right path.
+
+> - Hours worked:
+>
+>      Igor - 2
+>      Daniel - 2
+>      David - 4
+>      Rafael - 4
+
+- ### **20/12, 10min, ISEP:**
+
+> - What did I do today? 
+>
+>      Igor - Continuation of USFA03, which is being very difficult.
+>      Daniel - Machine implementation for USAC12 and USAC14
+>      David - Improved Relational model based on the feedback from the previous sprint's model
+>      Rafael - Tested the Arudino Code with the actual Arduino device and noticed our device was burned.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - I will continue in physics until I can understand and perform the US.
+>      Daniel - Continue implementation.
+>      David - Finalize the correct relational model based on feedback from the previous sprint's model
+>      Rafael - Start working on my other Arqcp US.
+
+> - The difficulties I had?
+> 
+>      Igor - Carry out the assembly, as it is not working, the temperature and humidity sensor has even burned out.
+>      Daniel - Relationship between user stories.
+>      David - Some tips the professors gave me didn’t make much sense to me.
+>      Rafael - Test everything to make sure the problem was with the device.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - Continue to strive as well as all the other members of the group.
+>      Daniel - It was a good advance.
+>      David - I intend to increase my work pace
+>      Rafael - We are progressing well.
+
+> - Hours worked:
+>
+>      Igor - 4
+>      Daniel - 5
+>      David - 6
+>      Rafael - 4
+
+- ### **22/12, 15min, Discord:**
+
+> - What did I do today? 
+>
+>      Igor - After, together with Rafael, understanding that the problem of assembling physics was hosted on the Raspberry, I dropped physics and moved on to solving the ESINF Java Docs.
+>      Daniel - Improvements to ARQCP implementation.
+>      David - Start improving the relational model now based on the requirements given for sprint 3.
+>      Rafael - Kept working on Arqcp.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Rest due to Christmas.
+>      Daniel - Nothing due to holidays.
+>      David - Time to rest.
+>      Rafael - Rest due to Christmas.
+
+> - The difficulties I had?
+> 
+>      Igor - In doing the Java Docs, I didn't experience any difficulty.
+>      Daniel - Understand machine flow.
+>      David - None.
+>      Rafael - Understanding the whole Arqcp environment in this sprint.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - We continue to make progress, even though physics is stagnant for now.
+>      Daniel - We have made good progress these last few days due to the proximity of the holidays.
+>      David - I need to increase my work pace.
+>      Rafael - We worked good and have our work in good state.
+
+> - Hours worked:
+>
+>      Igor - 2
+>      Daniel - 4
+>      David - 5
+>      Rafael - 3
+
+- ### **27/12, 15min, Discord:**
+
+> - What did I do today? 
+>
+>      Igor - I had to go to Rafael's house to do my ARQCP US on his Virtual Box, as mine wasn't working and at the end of the day, I completed the remaining Java Docs (from the test classes).
+>      Daniel - Implementation of the requested trigger in USBD23.
+>      David - Finished the first version of the relational model that meets the requirements and converted it from logical to physical level.
+>      Rafael - Finished Arqcp.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - We continue to wait to find out new things to do Physics, I will move on to USBD28.
+>      Daniel - Test the trigger with various scenarios.
+>      David - Will update insertion data of the Legacy System based on the new relational model (manually)
+>      Rafael - Start working on BDDAD.
+
+> - The difficulties I had?
+> 
+>      Igor - Just like in the previous meeting, in this part of Java Docs, I didn't experience any difficulties.
+>      Daniel - Make the trigger work correctly.
+>      David - None.
+>      Rafael - Nothing.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - We are doing very well, regardless of the pressure of not having any news in Physics.
+>      Daniel - The team is collaborating well and addressing the tasks effectively despite the complexity of some user stories.
+>      David - Now I’m going to focus fully on the project.
+>      Rafael - I believe i am making good progress.
+
+> - Hours worked:
+>
+>      Igor - 8
+>      Daniel - 4
+>      David - 10
+>      Rafael - 2
+
+- ### **29/12, 15min, Discord:**
+
+> - What did I do today? 
+>
+>      Igor - I started carrying out USBD 28.
+>      Daniel - Insert new inserts into our system (automatically).
+>      David - Some corrections in the relational model, consequently updated the physical model and the insertion data.
+>      Rafael - Finished my BDDAD US.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Try to finish BDDAD, and move on to creating the FSIAP code, even without assembling the Arduino.
+>      Daniel - Update the conceptual model with information from the logical model.
+>      David - Start implementation of trigger to prevent circular references.
+>      Rafael - Move on to LAPR.
+
+> - The difficulties I had?
+> 
+>      Igor - The difficulties I felt when doing BDDAD were overcome using the help of my group mates.
+>      Daniel - Review everything to know which inserts to put.
+>      David - None.
+>      Rafael - Understand what my US was actually asking.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - We all continue to work together for the same thing.
+>      Daniel - We are efficiently coordinating tasks to ensure smooth progress as the project nears its end.
+>      David - Now we're really heading in the right direction!
+>      Rafael - We are doing good.
+
+> - Hours worked:
+>
+>      Igor - 2
+>      Daniel - 3
+>      David - 3
+>      Rafael - 3
+
+- ### **02/01, 10min, Discord:**
+
+> - What did I do today? 
+>
+>      Igor - I completed the BDDAD part and now I'm writing the Physics code, still without access to the Arduino.
+>      Daniel - Implementing the function requested in USBD25 and analyzing its complexity.
+>      David - Started implementing USBD27, changed the relational model to meet the USBD27 requirements, and consequently updated the physical model and insertion data, as well as revising USBD26
+>      Rafael - Kept working on my LAPR3 US due to some rest with New Eves.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - We received an email from the professor saying that he had gotten us a new Raspberry, so I'm going to the college with Rafael to try to assemble it.
+>      Daniel - Finalize USPL06.
+>      David - Completed USBD27 implementations and finalized connecting all Oracle functions created with Java.
+>      Rafael - End USLP07.
+
+> - The difficulties I had?
+> 
+>      Igor - Producing the code without being able to test with Arduino.
+>      Daniel - Analyzing the complexity of the function.
+>      David - As one of the requirements of USBD27 was to use the function created in USBD26, I had to make several adjustments, which caused me to lose some considerable time.
+>      Rafael - Connect with the actual data base.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - There isn't much left until delivery, so everyone's delivery is noticeable.
+>      Daniel - The team is maintaining a good rhythm, and we are aligning well to meet the final goals.
+>      David - Good, I've been fully focused on the project.
+>      Rafael - The team is putting a lot of effort in this last few days.
+
+> - Hours worked:
+>
+>      Igor - 4
+>      Daniel - 3
+>      David - 10
+>      Rafael - 2
+
+- ### **03/01, 15min, Discord:**
+
+> - What did I do today? 
+>
+>      Igor - Together with Rafael I tried to build the Arduino
+>      Daniel - Improvements in the simulation of production of items necessary to fulfill orders.
+>      David - Completed everything that was missing for the database and completed implementing USAC16, and started the USAC17 code.
+>      Rafael - Finished USLP07 and unit tests in my ESINF US. Tried to make the Arduino device work with Igor.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Try to assemble it one last time.
+>      Daniel - Final review
+>      David - Will complete USAC17 implementation code and implement USLP8.
+>      Rafael - Final review.
+
+> - The difficulties I had?
+> 
+>      Igor - All the assemblies we carried out are not working correctly, we have not discovered the error.
+>      Daniel - Be able to adjust the simulation as intended.
+>      David - Since our Arduino isn’t working, it's a bit difficult to test the user stories for ARQCP
+>      Rafael - Do the unit tests.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - We are in constant contact to progress together.
+>      Daniel - Everyone is showing great dedication, and our progress is a testament to effective teamwork.
+>      David - Good, the project is almost complete.
+>      Rafael - We are progressing very well in this last few days.
+
+> - Hours worked:
+>
+>      Igor - 4
+>      Daniel - 3
+>      David - 5
+>      Rafael - 5
+
+- ### **04/01, 20min, Discord:**
+
+> - What did I do today? 
+>
+>      Igor - I made several assemblies, but it still doesn't work correctly, we sent an email to the teacher, so he can help us later. Final review.
+>      Daniel - Final review
+>      David - Completed USAC17 implementation and USLP08
+>      Rafael - Final review of everything and small adjustments.
+
+> - What am I going to do tomorrow?
+> 
+>      Igor - Nothing.
+>      Daniel - None.
+>      David - Final review of the entire project.
+>      Rafael - Nothing.
+
+> - The difficulties I had?
+> 
+>      Igor - The same difficulty as yesterday, carrying out the assembly.
+>      Daniel - None.
+>      David - I continued to have this difficulty: 'Since our Arduino isn’t working, it's a bit difficult to test the user stories for ARQCP.'
+>      Rafael - No difficulties.
+
+> - What is your opinion about your performance in the project or group?
+>
+>      Igor - Taking into account the things that happened to us throughout this Sprint, the Sprint was still a success.
+>      Daniel - The project has been a success.
+>      David - Aside from the issues we had with the Arduino, which gave us quite a bit of work, the rest of the project is incredibly well done, and I congratulate the whole team for that.
+>      Rafael - We managed to finish everything, as much as possible, given that we were unable to assemble the Arduino.
+
+> - Hours worked:
+>
+>      Igor - 4
+>      Daniel - 1
+>      David - 3
+>      Rafael - 4"

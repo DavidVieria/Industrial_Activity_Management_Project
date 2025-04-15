@@ -1,0 +1,38 @@
+digraph BOO {
+    node [style=filled, fontname=Arial];
+    "AS12945S20" [shape=circle, color=yellow];
+    "AS12947S20" [shape=box, color=orange];
+    "AS12947S20" -> "AS12945S20" [label="1,00"];
+    "AS12946S20" [shape=box, color=orange];
+    "AS12946S20" -> "AS12945S20" [label="1,00"];
+    "AS12947S20" [shape=circle, color=lightgreen];
+    "PN94561L67" [shape=diamond, color=orange];
+    "PN94561L67" -> "AS12947S20" [label="5,00"];
+    "PN52384R10" [shape=diamond, color=orange];
+    "PN52384R10" -> "AS12947S20" [label="1,00"];
+    "PN18324C51" [shape=diamond, color=orange];
+    "PN18324C51" -> "AS12947S20" [label="1,00"];
+    "IP12947A32" [shape=diamond, color=orange];
+    "IP12947A32" -> "AS12947S20" [label="1,00"];
+    "IP12947A33" [shape=diamond, color=orange];
+    "IP12947A33" -> "AS12947S20" [label="1,00"];
+    "IP12947A01" [shape=diamond, color=orange];
+    "IP12947A01" -> "AS12947S20" [label="1,00"];
+    "IP12947A34" [shape=diamond, color=orange];
+    "IP12947A34" -> "AS12947S20" [label="1,00"];
+    "AS12946S20" [shape=circle, color=lightgreen];
+    "IP12945A33" [shape=diamond, color=orange];
+    "IP12945A33" -> "AS12946S20" [label="1,00"];
+    "PN52384R50" [shape=diamond, color=orange];
+    "PN52384R50" -> "AS12946S20" [label="1,00"];
+    "IP12945A32" [shape=diamond, color=orange];
+    "IP12945A32" -> "AS12946S20" [label="1,00"];
+    "PN94561L67" [shape=diamond, color=orange];
+    "PN94561L67" -> "AS12946S20" [label="5,00"];
+    "PN18544C21" [shape=diamond, color=orange];
+    "PN18544C21" -> "AS12946S20" [label="2,00"];
+    "IP12945A01" [shape=diamond, color=orange];
+    "IP12945A01" -> "AS12946S20" [label="1,00"];
+    "IP12945A34" [shape=diamond, color=orange];
+    "IP12945A34" -> "AS12946S20" [label="1,00"];
+}

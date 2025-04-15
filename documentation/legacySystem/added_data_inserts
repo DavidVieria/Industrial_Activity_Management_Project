@@ -1,0 +1,55 @@
+=== Added Data ===
+
+-- Inserts added with valid data needed to make the current system functional -----------------------
+
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5647, 'A4578', 250, 30);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5647, 'A4588', 250, 45);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5647, 'A4598', 350, 45);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5649, 'A4588', 230, 30);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5649, 'A4598', 235, 30);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5651, 'A4588', 320, 45);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5651, 'A4598', 330, 45);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5653, 'C5637', 400, 45);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5655, 'A4588', 150, 30);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5655, 'A4598', 155, 30);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5657, 'C5637', 350, 45);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5659, 'S3271', 700, 60);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5661, 'T3452', 295, 30);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5663, 'K3675', 385, 45);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5665, 'D9123', 400, 45);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5667, 'Q3547', 1400, 80);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5669, 'Q3547', 475, 45);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5671, 'Q5478', 700, 60);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5681, 'A4588', 300, 30);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5681, 'A4598', 310, 30);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5682, 'A4588', 385, 30);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5682, 'A4598', 395, 45);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5683, 'C5637', 500, 45);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5685, 'D9123', 350, 30);
+INSERT INTO CanBeDoneAt (OperationTypeID, WorkstationTypeID, MaximumExecutionTime, SetupTime) VALUES (5688, 'K3675', 550, 45);
+
+INSERT INTO Supplier (SupplierID, Name, PhoneNumber, EmailAddress) VALUES (12298, 'SteelWorks Ltd.', 351234567893, 'contact@steelworks.com');
+INSERT INTO Supplier (SupplierID, Name, PhoneNumber, EmailAddress) VALUES (12345, 'Fasteners Inc.', 351987654336, 'sales@fastenersinc.com');
+
+INSERT INTO StockPart (StockPartID, CurrentStock, MinimumStock) VALUES ('PN12344A21', 1000, 500);
+INSERT INTO StockPart (StockPartID, CurrentStock, MinimumStock) VALUES ('PN52384R50', 850, 200);
+INSERT INTO StockPart (StockPartID, CurrentStock, MinimumStock) VALUES ('PN52384R10', 658, 200);
+INSERT INTO StockPart (StockPartID, CurrentStock, MinimumStock) VALUES ('PN18544A21', 757, 300);
+INSERT INTO StockPart (StockPartID, CurrentStock, MinimumStock) VALUES ('PN18544C21', 603, 150);
+INSERT INTO StockPart (StockPartID, CurrentStock, MinimumStock) VALUES ('PN18324C54', 614, 150);
+INSERT INTO StockPart (StockPartID, CurrentStock, MinimumStock) VALUES ('PN18324C51', 617, 150);
+INSERT INTO StockPart (StockPartID, CurrentStock, MinimumStock) VALUES ('PN52384R45', 655, 150);
+INSERT INTO StockPart (StockPartID, CurrentStock, MinimumStock) VALUES ('PN52384R12', 550, 100);
+INSERT INTO StockPart (StockPartID, CurrentStock, MinimumStock) VALUES ('PN18324C91', 650, 100);
+INSERT INTO StockPart (StockPartID, CurrentStock, MinimumStock) VALUES ('PN94561L67', 800, 300);
+
+INSERT INTO SupplyOffer (SupplierID, StockPartID, StartDate, EndDate, MinimumQuantity, UnitCost) VALUES (12345, 'PN18544C21', TO_DATE('01/10/2023', 'DD/MM/YYYY'), NULL, 20, 1.25);
+INSERT INTO SupplyOffer (SupplierID, StockPartID, StartDate, EndDate, MinimumQuantity, UnitCost) VALUES (12345, 'PN18324C54', TO_DATE('01/10/2023', 'DD/MM/YYYY'), TO_DATE('29/02/2024', 'DD/MM/YYYY'), 10, 1.70);
+INSERT INTO SupplyOffer (SupplierID, StockPartID, StartDate, EndDate, MinimumQuantity, UnitCost) VALUES (12345, 'PN18324C54', TO_DATE('01/04/2024', 'DD/MM/YYYY'), NULL, 16, 1.80);
+INSERT INTO SupplyOffer (SupplierID, StockPartID, StartDate, EndDate, MinimumQuantity, UnitCost) VALUES (12345, 'PN18324C51', TO_DATE('01/07/2023', 'DD/MM/YYYY'), TO_DATE('31/03/2024', 'DD/MM/YYYY'), 30, 1.90);
+INSERT INTO SupplyOffer (SupplierID, StockPartID, StartDate, EndDate, MinimumQuantity, UnitCost) VALUES (12345, 'PN18324C51', TO_DATE('01/04/2024', 'DD/MM/YYYY'), NULL, 20, 1.90);
+INSERT INTO SupplyOffer (SupplierID, StockPartID, StartDate, EndDate, MinimumQuantity, UnitCost) VALUES (12298, 'PN18544C21', TO_DATE('01/09/2023', 'DD/MM/YYYY'), NULL, 10, 1.35);
+INSERT INTO SupplyOffer (SupplierID, StockPartID, StartDate, EndDate, MinimumQuantity, UnitCost) VALUES (12298, 'PN18324C54', TO_DATE('01/08/2023', 'DD/MM/YYYY'), TO_DATE('29/01/2024', 'DD/MM/YYYY'), 10, 1.80);
+INSERT INTO SupplyOffer (SupplierID, StockPartID, StartDate, EndDate, MinimumQuantity, UnitCost) VALUES (12298, 'PN18324C54', TO_DATE('15/02/2024', 'DD/MM/YYYY'), NULL, 20, 1.75);
+INSERT INTO SupplyOffer (SupplierID, StockPartID, StartDate, EndDate, MinimumQuantity, UnitCost) VALUES (12298, 'PN18324C51', TO_DATE('01/08/2023', 'DD/MM/YYYY'), TO_DATE('31/05/2024', 'DD/MM/YYYY'), 40, 1.80);
+INSERT INTO SupplyOffer (SupplierID, StockPartID, StartDate, EndDate, MinimumQuantity, UnitCost) VALUES (12298, 'PN12344A21', TO_DATE('01/07/2023', 'DD/MM/YYYY'), NULL, 200, 0.65);

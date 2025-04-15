@@ -1,0 +1,225 @@
+@startuml
+skinparam monochrome true
+skinparam packageStyle rectangle
+skinparam shadowing false
+
+skinparam classAttributeIconSize 0
+hide circle
+hide methods
+
+title Domain Model - Activity of the industrial facility
+
+class Part {
+    partID
+    description
+}
+
+class Client {
+    clientID
+    clientName
+    emailAddress
+}
+
+class ClientType {
+    typeName
+}
+
+class ClientState {
+    stateName
+}
+
+class PhoneNumber {
+    countryCode
+    number
+}
+
+class Address {
+    addressID
+    street
+    zipCode
+    town
+    country
+}
+
+class VATIN {
+    countryPrefix
+    identifier
+}
+
+class Order {
+    orderID
+    orderDate
+    deliveryDate
+}
+
+class Component {
+    componentID
+}
+
+class IntermediateProduct {
+    intermediateProductID
+}
+
+class RawMaterial {
+    rawMaterialID
+}
+
+class Product {
+    productID
+    name
+    capacity
+    size
+    color
+    addtionalRemarks
+}
+
+class ProductionOrder {
+    orderID
+    productID
+    productQuantity
+}
+
+class ProductFamily {
+    productFamilyID
+    familyName
+}
+
+class BillOfMaterials {
+    productID
+    numMaterials
+}
+
+class BillOfOperations {
+    productID
+    numOperations
+}
+
+class Operation {
+    operationID
+    expectedExecutionTime
+}
+
+class OperationType {
+    operationTypeID
+    name
+}
+
+class Workstation {
+    workstationID
+    name
+    description
+}
+
+class WorkstationType {
+    workstationTypeID
+    name
+}
+
+class OperationInput {
+    partID
+    quantity
+}
+
+class OperationOutput {
+    partID
+    quantity
+}
+
+class ProductBOMMaterial {
+    productID
+    partID
+    partQuantity
+}
+
+class ProductBOOOperation {
+    productID
+    operationID
+    operationNumber
+    nextOperation
+}
+
+class ProductionEvent {
+    operationTypeID
+    workstationTypeID
+    maximumExecutionTime
+    setupTime
+}
+
+class Unit {
+    name
+    symbol
+}
+
+class StockPart {
+    stockPartID
+    currentStock
+    minimumStock
+}
+
+class SupplyOffer {
+    supplierID
+    stockPartID
+    startDate
+    endDate
+    minimumQuantity
+}
+
+class Supplier {
+    supplierID
+    name
+    emailAddress
+}
+
+class ManufacturedPart {
+    manufacturedPartID
+}
+
+class PartReservation {
+    reservationID
+    orderID
+    stockPartID
+    reservedQuantity
+    reservationDate
+}
+
+' Relationships between classes
+Part "1" -- "0..1" StockPart : can be >
+Part "1" -- "0..1" ManufacturedPart : can be >
+StockPart "1" -- "0..1" Component : can be >
+ManufacturedPart "1" -- "0..1" IntermediateProduct : can be >
+StockPart "1" -- "0..1" RawMaterial : can be >
+ManufacturedPart "1" -- "0..1" Product : can be >
+Part "*" -- "1" Unit : has >
+Client "*" -- "1" Address : has >
+Client "1" -- "1" VATIN : holds >
+Client "*" -- "1" ClientType : has >
+Client "*" -- "1" ClientState : has >
+Client "1" -- "1" PhoneNumber : holds >
+Supplier "1" -- "1" PhoneNumber : holds >
+Client "1" -- "*" Order : places >
+Order "*" - "1" Address : delivered to >
+Order "*" -- "1..*" Product : comprises >
+Order "1" -- "1..*" ProductionOrder: contains >
+Product "1..*" -- "1" ProductFamily : belongs to >
+ProductionOrder "*" -- "1" Product : produces >
+BillOfOperations "1" - "1" Product : has <
+Product "1" -- "1" BillOfMaterials : has >
+BillOfMaterials "1" -- "*" ProductBOMMaterial : contains >
+Part "1" -- "*" ProductBOMMaterial : used in >
+BillOfOperations "1" -- "1..*" ProductBOOOperation : consistsOf >
+Operation "1" -- "*" ProductBOOOperation : associates >
+Operation "*" -- "1" OperationType : categorizes <
+WorkstationType "1" -- "*" Workstation : categorizes >
+Workstation "1" -- "*" Operation : performs >
+Operation "1" -- "1..*" OperationInput : requires >
+Operation "1" -- "1" OperationOutput : produces >
+OperationInput "*" -- "1" Part : requires >
+OperationOutput "0..1" -- "1" Part : produces >
+WorkstationType "1" -- "*" ProductionEvent : attributed to >
+OperationType "1" -- "*" ProductionEvent : attributed to >
+StockPart "1" -- "*" SupplyOffer : associates >
+Supplier "1" -- "*" SupplyOffer : places >
+Order "1" -- "*" PartReservation : requires >
+StockPart "1" -- "*" PartReservation : associates >
+
+@enduml

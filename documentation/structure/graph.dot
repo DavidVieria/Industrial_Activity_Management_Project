@@ -1,0 +1,74 @@
+digraph {
+    rankdir=LR;
+    size="10,10";
+    dpi=300;
+    node [style=filled, fontname="Arial"];
+    "Start" [label="Start Point", shape=box];
+    "End" [label="End Point", shape=box];
+    "J" -> "End";
+    "L" -> "End";
+    "A" [label="High level analysis
+(A)
+1 week
+30,00 USD", shape=box];
+    "Start" -> "A";
+    "B" [label="Order Hardware platform
+(B)
+4 week
+2500,00 USD", shape=box];
+    "Start" -> "B";
+    "C" [label="Installation and commissioning of hardware
+(C)
+2 week
+1250,00 USD", shape=box];
+    "B" -> "C";
+    "D" [label="Detailed analysis of core modules
+(D)
+3 week
+30,00 USD", shape=box];
+    "A" -> "D";
+    "E" [label="Detailed analysis of supporting modules
+(E)
+2 week
+30,00 USD", shape=box];
+    "D" -> "E";
+    "F" [label="Programming of core modules
+(F)
+4 week
+20,00 USD", shape=box];
+    "C" -> "F";
+    "D" -> "F";
+    "G" [label="Programming of supporting modules
+(G)
+3 week
+20,00 USD", shape=box];
+    "E" -> "G";
+    "F" -> "G";
+    "H" [label="Quality assurance of core modules
+(H)
+2 week
+30,00 USD", shape=box];
+    "F" -> "H";
+    "I" [label="Quality assurance of supporting modules
+(I)
+1 week
+30,00 USD", shape=box];
+    "G" -> "I";
+    "J" [label="Application Manual
+(J)
+1 week
+550,00 USD", shape=box];
+    "G" -> "J";
+    "K" [label="User Manual
+(K)
+1 week
+750,00 USD", shape=box];
+    "G" -> "K";
+    "L" [label="Core and supporting module training
+(L)
+2 week
+1500,00 USD", shape=box];
+    "H" -> "L";
+    "I" -> "L";
+    "K" -> "L";
+}

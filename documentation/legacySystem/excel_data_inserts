@@ -1,0 +1,81 @@
+=== Excel Data ===
+
+INSERT INTO Address (AddressID, Street, ZipCode, Town, Country) VALUES (1, 'Tv. Augusto Lessa 23', '4200-047', 'Porto', 'Portugal');
+INSERT INTO Address (AddressID, Street, ZipCode, Town, Country) VALUES (2, 'R. Dr. Barros 93', '4465-219', 'São Mamede de Infesta', 'Portugal');
+INSERT INTO Address (AddressID, Street, ZipCode, Town, Country) VALUES (3, 'EDIFICIO CRISTAL lj18, R. António Correia de Carvalho 88', '4400-023', 'Vila Nova de Gaia', 'Portugal');
+INSERT INTO Address (AddressID, Street, ZipCode, Town, Country) VALUES (4, 'Křemencova 11', '110 00', 'Nové Město', 'Czechia');
+
+
+INSERT INTO Client (ClientID, ClientTypeID, AddressID, Name, VATIN, PhoneNumber, EmailAddress) VALUES (456, 'C', 1, 'Carvalho & Carvalho, Lda', 'PT501245987', 003518340500, 'idont@care.com');
+INSERT INTO Client (ClientID, ClientTypeID, AddressID, Name, VATIN, PhoneNumber, EmailAddress) VALUES (785, 'C', 2, 'Tudo para a casa, Lda', 'PT501245488', 003518340500, 'me@neither.com');
+INSERT INTO Client (ClientID, ClientTypeID, AddressID, Name, VATIN, PhoneNumber, EmailAddress) VALUES (657, 'C', 3, 'Sair de Cena', 'PT501242417', 003518340500, 'some@email.com');
+INSERT INTO Client (ClientID, ClientTypeID, AddressID, Name, VATIN, PhoneNumber, EmailAddress) VALUES (348, 'C', 4, 'U Fleku', 'CZ6451237810', 004201234567, 'some.random@email.cz');
+
+
+INSERT INTO "Order" (OrderID, ClientID, OrderDate, DeliveryDate) VALUES (1, 785, TO_DATE('23/09/2024', 'DD/MM/YYYY'), TO_DATE('23/09/2024', 'DD/MM/YYYY'));
+INSERT INTO "Order" (OrderID, ClientID, OrderDate, DeliveryDate) VALUES (2, 657, TO_DATE('26/09/2024', 'DD/MM/YYYY'), TO_DATE('26/09/2024', 'DD/MM/YYYY'));
+INSERT INTO "Order" (OrderID, ClientID, OrderDate, DeliveryDate) VALUES (3, 348, TO_DATE('25/09/2024', 'DD/MM/YYYY'), TO_DATE('25/09/2024', 'DD/MM/YYYY'));
+INSERT INTO "Order" (OrderID, ClientID, OrderDate, DeliveryDate) VALUES (4, 785, TO_DATE('25/09/2024', 'DD/MM/YYYY'), TO_DATE('25/09/2024', 'DD/MM/YYYY'));
+INSERT INTO "Order" (OrderID, ClientID, OrderDate, DeliveryDate) VALUES (5, 657, TO_DATE('25/09/2024', 'DD/MM/YYYY'), TO_DATE('25/09/2024', 'DD/MM/YYYY'));
+INSERT INTO "Order" (OrderID, ClientID, OrderDate, DeliveryDate) VALUES (6, 348, TO_DATE('26/09/2024', 'DD/MM/YYYY'), TO_DATE('26/09/2024', 'DD/MM/YYYY'));
+INSERT INTO "Order" (OrderID, ClientID, OrderDate, DeliveryDate) VALUES (7, 456, TO_DATE('26/09/2024', 'DD/MM/YYYY'), TO_DATE('26/09/2024', 'DD/MM/YYYY'));
+
+
+INSERT INTO ProductFamily (ProductFamilyID, ProductFamilyName) VALUES (125, 'Pro Line pots');
+INSERT INTO ProductFamily (ProductFamilyID, ProductFamilyName) VALUES (130, 'La Belle pots');
+INSERT INTO ProductFamily (ProductFamilyID, ProductFamilyName) VALUES (132, 'Pro Line pans');
+INSERT INTO ProductFamily (ProductFamilyID, ProductFamilyName) VALUES (145, 'Pro Line lids');
+INSERT INTO ProductFamily (ProductFamilyID, ProductFamilyName) VALUES (146, 'Pro Clear lids');
+
+
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (1, 'AS12945S22', 5);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (1, 'AS12945S20', 15);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (2, 'AS12945S22', 10);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (2, 'AS12945P17', 20);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (3, 'AS12945S22', 10);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (3, 'AS12945S20', 10);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (4, 'AS12945S20', 24);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (4, 'AS12945S22', 16);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (4, 'AS12945S17', 8);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (5, 'AS12945S22', 12);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (6, 'AS12945S17', 8);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (6, 'AS12945P17', 16);
+INSERT INTO ProductOrder (OrderID, ProductID, ProductQuantity) VALUES (7, 'AS12945S22', 8);
+
+
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('A4578', '600t cold forging stamping press');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('A4588', '600t cold forging precision stamping press');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('A4598', '1000t cold forging precision stamping press');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('S3271', 'Handle rivet');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('K3675', 'Packaging');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('K3676', 'Packaging for large itens');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('C5637', 'Border trimming');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('D9123', 'Spot welding');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('Q5478', 'Teflon application station');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('Q3547', 'Stainless steel polishing');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('T3452', 'Assembly T1');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('G9273', 'Circular glass cutting');
+INSERT INTO WorkstationType (WorkstationTypeID, WorkstationTypeName) VALUES ('G9274', 'Glass trimming');
+
+
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (9875, 'A4578', 'Press 01', '220-630t cold forging press');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (9886, 'A4578', 'Press 02', '220-630t cold forging press');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (9847, 'A4588', 'Press 03', '220-630t precision cold forging press');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (9855, 'A4588', 'Press 04', '160-1000t precison cold forging press');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (8541, 'S3271', 'Rivet 02', 'Rivet station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (8543, 'S3271', 'Rivet 03', 'Rivet station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (6814, 'K3675', 'Packaging 01', 'Packaging station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (6815, 'K3675', 'Packaging 02', 'Packaging station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (6816, 'K3675', 'Packaging 03', 'Packaging station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (6821, 'K3675', 'Packaging 04', 'Packaging station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (6822, 'K3676', 'Packaging 05', 'Packaging station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (8167, 'D9123', 'Welding 01', 'Spot welding staion');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (8170, 'D9123', 'Welding 02', 'Spot welding staion');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (8171, 'D9123', 'Welding 03', 'Spot welding staion');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (7235, 'T3452', 'Assembly 01', 'Product assembly station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (7236, 'T3452', 'Assembly 02', 'Product assembly station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (7238, 'T3452', 'Assembly 03', 'Product assembly station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (5124, 'C5637', 'Trimming 01', 'Metal trimming station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (4123, 'Q3547', 'Polishing 01', 'Metal polishing station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (4124, 'Q3547', 'Polishing 02', 'Metal polishing station');
+INSERT INTO Workstation (WorkstationID, WorkstationTypeID, WorkstationName, Description) VALUES (4125, 'Q3547', 'Polishing 03', 'Metal polishing station');

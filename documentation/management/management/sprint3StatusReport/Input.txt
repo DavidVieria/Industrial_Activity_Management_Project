@@ -1,0 +1,24 @@
+- Input 1:
+
+Consider the development of a Sprint in a SCRUM environment with multiple user stories.
+Write a brief paragraph about the team's performance, taking into account the work
+completed and reported in the attached file, which corresponds only to the
+Daily Meetings that were recorded and held.  Then, provide an overall assessment of
+the team's performance in the project development, assigning a rating from 1 to 10,
+where 1 represents the lowest rating and 10 the highest.
+
+
+- Input 2:
+
+Now, instead of only considering the Daily Meetings held and recorded,
+also take into account the status report and the project assignment.
+
+- Summary Input:
+
+Considering this, what is your overall opinion on the team's performance?
+
+
+- Suggestions Input:
+
+Provide four improvement ideas for a future Sprint.
+
