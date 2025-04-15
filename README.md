@@ -1,5 +1,12 @@
-# sem3-p2-2024_25_G041
-Repository for Integrative Project LEI-ISEP 3rd Semester.
+# Industrial_Activity_Management_Project
+⚠️ This repository was created as part of the Integrative Project of the 3rd semester of the Bachelor’s Degree in Informatics Engineering at ISEP, and was therefore developed as a group project.
+
+Team Members:
+ - David Vieira
+ - Daniel Silva
+ - Rafael Barbosa
+ - Igor Coutinho
+
 
 ## Documentation
 - Algorithm's Complexity Analysis.
