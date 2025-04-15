@@ -318,7 +318,7 @@
     </user>
     <routine id="94" parent="8" name="SUBSTITIR_MEDICO">
       <CreatedTimestamp>2025-01-24.22:45:11</CreatedTimestamp>
-      <DependsOnIds>-9223372036854775808,107028,107032,107041</DependsOnIds>
+      <DependsOnIds>-9223372036854775808,107041,107032,107028</DependsOnIds>
       <DetailsLevel>3</DetailsLevel>
       <ModifiedTimestamp>2025-01-24.22:47:24</ModifiedTimestamp>
       <ObjectId>107042</ObjectId>
