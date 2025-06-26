@@ -15,7 +15,7 @@ void user_story_9();
 void user_story_10();
 
 // Diretório inicial do projeto
-const char *diretorio_inicial = "C:/Users/rafae/OneDrive/Ambiente de Trabalho/sem3-pi-2024_25_G041_V2/machineSupervisor";
+const char *diretorio_inicial = "C:/Users/05dar/Documents/MyRepositories/Industrial_Activity_Management_Project/machineSupervisor";
 
 // Função para mudar para o diretório da user story
 int mudar_para_diretorio(const char *user_story) {
